@@ -1,0 +1,25 @@
+agent_id,agent_name,language,queue,contract_type,productive_hours,shift_rotation_group
+A001,Name01 Surname01,DE,Sales,FT,7.5,0
+A002,Name02 Surname02,DE,Customer Service,FT,7.5,1
+A003,Name03 Surname03,DE,Sales,FT,7.5,2
+A004,Name04 Surname04,DE,Customer Service,FT,7.5,3
+A005,Name05 Surname05,DE,Sales,FT,7.5,0
+A006,Name06 Surname06,DE,Customer Service,FT,7.5,1
+A007,Name07 Surname07,FR,Sales,FT,7.5,2
+A008,Name08 Surname08,FR,Customer Service,FT,7.5,3
+A009,Name09 Surname09,FR,Sales,FT,7.5,0
+A010,Name10 Surname10,FR,Customer Service,FT,7.5,1
+A011,Name11 Surname11,FR,Sales,FT,7.5,2
+A012,Name12 Surname12,FR,Customer Service,FT,7.5,3
+A013,Name13 Surname13,IT,Sales,FT,7.5,0
+A014,Name14 Surname14,IT,Customer Service,FT,7.5,1
+A015,Name15 Surname15,IT,Sales,FT,7.5,2
+A016,Name16 Surname16,IT,Customer Service,FT,7.5,3
+A017,Name17 Surname17,IT,Sales,FT,7.5,0
+A018,Name18 Surname18,IT,Customer Service,FT,7.5,1
+A019,Name19 Surname19,EN,Sales,FT,7.5,2
+A020,Name20 Surname20,EN,Customer Service,FT,7.5,3
+A021,Name21 Surname21,EN,Sales,FT,7.5,0
+A022,Name22 Surname22,EN,Customer Service,FT,7.5,1
+A023,Name23 Surname23,EN,Sales,FT,7.5,2
+A024,Name24 Surname24,EN,Customer Service,FT,7.5,3

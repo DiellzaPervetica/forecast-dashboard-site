@@ -1,0 +1,70 @@
+check,status,value,detail
+file_exists::data/raw/agents.csv,PASS,1204,Required project artifact exists.
+file_exists::data/raw/business_events.csv,PASS,10152,Required project artifact exists.
+file_exists::data/raw/interval_forecast_raw_dirty.csv,PASS,12670889,Required project artifact exists.
+file_exists::data/processed/interval_forecast_clean.csv,PASS,17221559,Required project artifact exists.
+file_exists::data/processed/daily_kpis.csv,PASS,644532,Required project artifact exists.
+file_exists::data/processed/staffing_interval.csv,PASS,22120769,Required project artifact exists.
+file_exists::data/outputs/model_comparison.csv,PASS,518,Required project artifact exists.
+file_exists::data/outputs/forecast_2026_predictions.csv,PASS,3275426,Required project artifact exists.
+file_exists::data/outputs/forecast_confidence_scores.csv,PASS,63662,Required project artifact exists.
+file_exists::data/outputs/advanced_feature_summary.csv,PASS,2027,Required project artifact exists.
+file_exists::data/outputs/cost_impact_analysis.csv,PASS,48012,Required project artifact exists.
+file_exists::data/outputs/overtime_recommendations.csv,PASS,41662,Required project artifact exists.
+file_exists::data/outputs/forecast_explainability_v2.csv,PASS,134347,Required project artifact exists.
+file_exists::data/outputs/anomaly_alerts.csv,PASS,220013,Required project artifact exists.
+file_exists::data/outputs/schema_contract.csv,PASS,39838,Required project artifact exists.
+file_exists::frontend/package.json,PASS,690,Required project artifact exists.
+file_exists::frontend/app/page.tsx,PASS,136,Required project artifact exists.
+file_exists::frontend/components/ForecastWorkbench.tsx,PASS,87158,Required project artifact exists.
+file_exists::README.md,PASS,4870,Required project artifact exists.
+file_exists::docs/ARCHITECTURE.md,PASS,2661,Required project artifact exists.
+file_exists::docs/DATA_DICTIONARY.md,PASS,4027,Required project artifact exists.
+file_exists::docs/MODEL_CARD.md,PASS,2167,Required project artifact exists.
+file_exists::docs/INTERVIEW_GUIDE.md,PASS,3320,Required project artifact exists.
+file_exists::docs/PROJECT_COMPLETION_REPORT.md,PASS,2158,Required project artifact exists.
+row_count::data/outputs/accuracy_summary.csv,PASS,4,CSV has rows available for downstream use.
+row_count::data/outputs/advanced_feature_summary.csv,PASS,17,CSV has rows available for downstream use.
+row_count::data/outputs/agent_utilization.csv,PASS,10080,CSV has rows available for downstream use.
+row_count::data/outputs/anomaly_alerts.csv,PASS,1500,CSV has rows available for downstream use.
+row_count::data/outputs/capacity_heatmap.csv,PASS,2688,CSV has rows available for downstream use.
+row_count::data/outputs/cost_impact_analysis.csv,PASS,672,CSV has rows available for downstream use.
+row_count::data/outputs/data_quality_report.csv,PASS,7,CSV has rows available for downstream use.
+row_count::data/outputs/event_impact_analysis.csv,PASS,24,CSV has rows available for downstream use.
+row_count::data/outputs/forecast_2026_predictions.csv,PASS,32256,CSV has rows available for downstream use.
+row_count::data/outputs/forecast_confidence_scores.csv,PASS,672,CSV has rows available for downstream use.
+row_count::data/outputs/forecast_explainability_cards.csv,PASS,672,CSV has rows available for downstream use.
+row_count::data/outputs/forecast_explainability_v2.csv,PASS,672,CSV has rows available for downstream use.
+row_count::data/outputs/forecast_hierarchy_reconciliation.csv,PASS,90,CSV has rows available for downstream use.
+row_count::data/outputs/fragile_intervals.csv,PASS,800,CSV has rows available for downstream use.
+row_count::data/outputs/intraday_reforecast.csv,PASS,2016,CSV has rows available for downstream use.
+row_count::data/outputs/model_comparison.csv,PASS,5,CSV has rows available for downstream use.
+row_count::data/outputs/model_diagnostics.csv,PASS,4,CSV has rows available for downstream use.
+row_count::data/outputs/monthly_kpi_summary.csv,PASS,48,CSV has rows available for downstream use.
+row_count::data/outputs/overtime_recommendations.csv,PASS,250,CSV has rows available for downstream use.
+row_count::data/outputs/project_health_report.csv,PASS,69,CSV has rows available for downstream use.
+row_count::data/outputs/schema_contract.csv,PASS,314,CSV has rows available for downstream use.
+row_count::data/outputs/what_if_scenarios.csv,PASS,5,CSV has rows available for downstream use.
+row_count::data/processed/daily_kpis.csv,PASS,3360,CSV has rows available for downstream use.
+row_count::data/processed/interval_forecast_clean.csv,PASS,161280,CSV has rows available for downstream use.
+row_count::data/processed/schedule_segments_clean.csv,PASS,39944,CSV has rows available for downstream use.
+row_count::data/processed/staffing_interval.csv,PASS,161280,CSV has rows available for downstream use.
+row_count::data/raw/agents.csv,PASS,24,CSV has rows available for downstream use.
+row_count::data/raw/business_events.csv,PASS,75,CSV has rows available for downstream use.
+row_count::data/raw/interval_forecast_raw_dirty.csv,PASS,162570,CSV has rows available for downstream use.
+row_count::data/raw/schedule_segments_raw.csv,PASS,39944,CSV has rows available for downstream use.
+columns::data/outputs/forecast_2026_predictions.csv,PASS,18,Required columns are present.
+columns::data/processed/staffing_interval.csv,PASS,23,Required columns are present.
+columns::data/outputs/model_comparison.csv,PASS,10,Required columns are present.
+columns::data/outputs/schema_contract.csv,PASS,8,Required columns are present.
+columns::data/outputs/forecast_confidence_scores.csv,PASS,11,Required columns are present.
+columns::data/outputs/advanced_feature_summary.csv,PASS,5,Required columns are present.
+columns::data/outputs/cost_impact_analysis.csv,PASS,11,Required columns are present.
+columns::data/outputs/overtime_recommendations.csv,PASS,10,Required columns are present.
+columns::data/outputs/forecast_explainability_v2.csv,PASS,12,Required columns are present.
+business_logic::forecast_hierarchy_reconciliation,PASS,0,"Forecast rollups reconcile across total, queue, language and queue-language levels."
+business_logic::best_interval_model,PASS,HistGradientBoosting,Expected ML model should outperform partner baseline in this simulated scenario.
+business_logic::forecast_confidence_range,PASS,0,Expected forecast should sit inside low/high scenario bounds.
+business_logic::vacation_activity_present,PASS,240,Schedule includes VAC activity used by the frontend green color coding.
+frontend::dependencies_installed,PASS,yes,package-lock.json exists after npm install.
+frontend::build_artifact,PASS,yes,Next.js .next directory exists after a successful build.

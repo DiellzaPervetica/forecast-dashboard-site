@@ -1,0 +1,673 @@
+date,queue,language,confidence_score,confidence_label,business_priority_score,forecast_calls,actual_calls,partner_forecast_calls,risk_rate,primary_drivers,recommended_action
+2026-01-01,Customer Service,DE,66.5,Medium,78.482,203.96,407.0,94.16,0.6667,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-01,Customer Service,EN,53.7,Low,10.39,60.82,111.0,34.16,0.1042,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-01-01,Customer Service,FR,55.0,Low,9.523,82.46,112.0,78.57,0.125,Business event effect: billing_cycle is active.,Planner review recommended before schedule freeze
+2026-01-01,Customer Service,IT,48.8,Low,10.863,81.64,133.0,81.85,0.1042,Business event effect: billing_cycle is active.,Planner review recommended before schedule freeze
+2026-01-01,Sales,DE,67.6,Medium,18.828,108.78,188.0,60.4,0.1875,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-01,Sales,EN,66.2,Medium,3.471,32.76,46.0,19.14,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-01,Sales,FR,67.6,Medium,4.656,47.76,54.0,48.64,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-01,Sales,IT,67.7,Medium,5.447,45.49,68.0,45.13,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-02,Customer Service,DE,76.0,Medium,56.364,183.02,342.0,99.38,0.5417,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-01-02,Customer Service,EN,61.9,Medium,8.099,56.6,91.0,33.14,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-02,Customer Service,FR,66.0,Medium,8.678,77.5,99.0,81.3,0.125,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-02,Customer Service,IT,65.9,Medium,8.497,67.06,94.0,59.2,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-02,Sales,DE,68.9,Medium,19.374,115.91,161.0,56.26,0.2292,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-02,Sales,EN,65.0,Medium,3.998,31.05,52.0,14.22,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-02,Sales,FR,66.8,Medium,5.025,43.6,58.0,41.74,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-02,Sales,IT,68.1,Medium,4.039,43.22,48.0,40.52,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-03,Customer Service,DE,74.5,Medium,121.22,165.62,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-03,Customer Service,EN,61.0,Medium,36.903,36.86,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-03,Customer Service,FR,61.0,Medium,33.75,37.08,0.0,0.0,0.9375,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-03,Customer Service,IT,61.0,Medium,34.73,40.16,0.0,0.0,0.9583,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-03,Sales,DE,62.4,Medium,67.799,95.13,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-03,Sales,EN,61.0,Medium,11.241,24.3,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-03,Sales,FR,61.0,Medium,10.153,24.62,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-03,Sales,IT,61.0,Medium,9.76,24.62,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-04,Customer Service,DE,78.8,High,158.156,224.2,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-04,Customer Service,EN,61.0,Medium,46.458,54.37,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-04,Customer Service,FR,61.0,Medium,44.27,56.56,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-04,Customer Service,IT,61.0,Medium,44.472,59.64,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-04,Sales,DE,68.0,Medium,80.412,118.65,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-04,Sales,EN,61.0,Medium,14.333,30.26,0.0,0.0,0.0208,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-04,Sales,FR,61.0,Medium,13.332,32.27,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-04,Sales,IT,61.0,Medium,12.797,32.27,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-05,Customer Service,DE,84.4,High,115.056,276.1,480.0,143.79,0.7917,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-05,Customer Service,EN,61.7,Medium,11.138,80.83,129.0,46.16,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-05,Customer Service,FR,70.5,Medium,14.844,120.34,120.0,131.62,0.1875,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-05,Customer Service,IT,69.0,Medium,12.933,107.3,141.0,106.63,0.1458,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-05,Sales,DE,75.3,Medium,28.156,141.05,253.0,81.74,0.2917,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-05,Sales,EN,65.6,Medium,6.467,46.5,65.0,25.98,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-05,Sales,FR,66.9,Medium,4.758,60.81,57.0,57.96,0.0833,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-05,Sales,IT,67.5,Medium,6.387,57.15,68.0,50.85,0.1042,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-06,Customer Service,DE,84.0,High,113.035,275.88,426.0,112.93,0.9167,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-06,Customer Service,EN,61.4,Medium,9.248,69.22,95.0,39.25,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-06,Customer Service,FR,68.1,Medium,13.403,100.94,136.0,104.92,0.1458,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-06,Customer Service,IT,65.6,Medium,12.207,89.1,118.0,86.21,0.1458,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-06,Sales,DE,72.5,Medium,41.021,140.44,213.0,63.28,0.5625,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-06,Sales,EN,64.7,Medium,4.794,39.78,62.0,20.27,0.0208,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-06,Sales,FR,67.7,Medium,3.573,54.46,47.0,52.76,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-06,Sales,IT,66.3,Medium,3.168,50.61,53.0,43.8,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-07,Customer Service,DE,80.1,High,73.742,212.44,360.0,118.02,0.6667,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-07,Customer Service,EN,62.1,Medium,9.144,67.74,99.0,41.18,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-07,Customer Service,FR,60.7,Medium,11.887,89.75,112.0,95.99,0.1458,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-07,Customer Service,IT,66.2,Medium,11.082,85.33,111.0,78.56,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-07,Sales,DE,70.8,Medium,25.416,122.07,235.0,58.13,0.25,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-07,Sales,EN,66.1,Medium,3.241,35.41,44.0,20.57,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-07,Sales,FR,67.7,Medium,4.461,54.76,57.0,55.54,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-07,Sales,IT,68.0,Medium,3.584,48.86,60.0,45.5,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-08,Customer Service,DE,77.5,Medium,70.491,209.12,321.0,104.36,0.5833,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-08,Customer Service,EN,57.4,Low,9.515,59.72,104.0,35.94,0.1042,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-01-08,Customer Service,FR,64.5,Medium,9.422,83.57,106.0,90.12,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-08,Customer Service,IT,65.7,Medium,8.321,82.0,97.0,82.08,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-08,Sales,DE,70.4,Medium,24.198,116.63,200.0,50.26,0.3333,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-08,Sales,EN,65.9,Medium,4.164,32.33,56.0,17.8,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-08,Sales,FR,67.7,Medium,4.925,49.28,74.0,46.88,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-08,Sales,IT,68.1,Medium,3.54,44.24,48.0,40.88,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-09,Customer Service,DE,79.6,High,71.178,211.37,330.0,103.09,0.6667,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-09,Customer Service,EN,62.4,Medium,7.926,55.92,80.0,35.55,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-09,Customer Service,FR,68.9,Medium,23.068,73.06,105.0,75.77,0.375,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-09,Customer Service,IT,65.3,Medium,7.797,72.13,92.0,67.67,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-09,Sales,DE,70.1,Medium,21.29,112.02,175.0,52.4,0.25,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-09,Sales,EN,65.2,Medium,3.218,32.35,41.0,16.84,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-09,Sales,FR,68.1,Medium,4.308,45.85,53.0,44.94,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-09,Sales,IT,67.7,Medium,3.779,41.46,48.0,36.68,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-10,Customer Service,DE,74.9,Medium,37.704,153.74,205.0,66.7,0.4167,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-01-10,Customer Service,EN,64.7,Medium,6.548,38.72,59.0,21.21,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-10,Customer Service,FR,67.4,Medium,7.729,48.39,69.0,43.78,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-10,Customer Service,IT,67.3,Medium,5.667,49.96,57.0,48.62,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-10,Sales,DE,60.8,Medium,11.254,93.72,114.0,33.97,0.125,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-10,Sales,EN,65.4,Medium,2.419,24.36,27.0,11.92,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-10,Sales,FR,67.6,Medium,3.006,29.77,23.0,24.92,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-10,Sales,IT,67.7,Medium,2.634,28.0,30.0,23.95,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-11,Customer Service,DE,78.9,High,158.519,224.78,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-11,Customer Service,EN,61.0,Medium,46.464,54.38,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-11,Customer Service,FR,61.0,Medium,44.26,56.54,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-11,Customer Service,IT,61.0,Medium,44.462,59.62,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-11,Sales,DE,68.2,Medium,80.752,119.26,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-11,Sales,EN,61.0,Medium,14.336,30.26,0.0,0.0,0.0208,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-11,Sales,FR,61.0,Medium,13.322,32.25,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-11,Sales,IT,61.0,Medium,12.788,32.25,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-12,Customer Service,DE,84.8,High,111.494,274.77,423.0,141.16,0.8542,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-12,Customer Service,EN,62.1,Medium,11.906,79.69,129.0,48.68,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-12,Customer Service,FR,69.3,Medium,13.268,110.31,144.0,117.72,0.1458,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-12,Customer Service,IT,67.5,Medium,12.441,105.56,146.0,103.23,0.125,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-12,Sales,DE,73.3,Medium,32.257,143.86,280.0,83.29,0.2708,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-12,Sales,EN,65.3,Medium,6.749,48.06,73.0,23.63,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-12,Sales,FR,66.1,Medium,6.27,62.04,76.0,58.39,0.0833,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-12,Sales,IT,66.1,Medium,5.561,61.1,59.0,60.86,0.1042,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-01-13,Customer Service,DE,84.4,High,115.615,281.95,409.0,142.78,0.875,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-13,Customer Service,EN,61.7,Medium,12.253,72.34,135.0,40.97,0.125,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-13,Customer Service,FR,62.8,Medium,10.593,96.34,106.0,99.46,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-13,Customer Service,IT,65.0,Medium,9.504,93.13,135.0,88.91,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-13,Sales,DE,72.6,Medium,25.646,141.05,198.0,70.39,0.25,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-13,Sales,EN,65.5,Medium,6.506,40.42,65.0,20.68,0.0833,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-13,Sales,FR,67.8,Medium,6.625,58.07,73.0,58.09,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-13,Sales,IT,67.3,Medium,5.491,49.93,63.0,41.35,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-14,Customer Service,DE,81.8,High,81.263,221.38,382.0,125.31,0.6875,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-01-14,Customer Service,EN,61.2,Medium,8.275,64.19,81.0,34.69,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-14,Customer Service,FR,64.1,Medium,10.512,92.52,129.0,104.63,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-14,Customer Service,IT,64.4,Medium,8.466,87.48,89.0,83.95,0.125,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-14,Sales,DE,72.7,Medium,27.076,130.66,195.0,63.16,0.3125,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-14,Sales,EN,65.7,Medium,3.707,34.33,47.0,18.11,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-01-14,Sales,FR,68.4,Medium,4.742,50.94,66.0,48.63,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-01-14,Sales,IT,67.8,Medium,5.113,48.57,68.0,45.07,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-01,Customer Service,DE,78.3,High,151.62,213.85,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-01,Customer Service,EN,61.0,Medium,46.172,53.87,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-01,Customer Service,FR,61.0,Medium,44.021,56.06,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-01,Customer Service,IT,61.0,Medium,44.226,59.14,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-01,Sales,DE,67.8,Medium,79.676,117.28,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-01,Sales,EN,61.0,Medium,13.778,29.78,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-01,Sales,FR,61.0,Medium,13.138,31.8,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-01,Sales,IT,61.0,Medium,12.608,31.8,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-02,Customer Service,DE,77.3,Medium,230.899,459.71,428.0,562.61,0.9167,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-02,Customer Service,EN,61.0,Medium,20.435,122.99,114.0,158.99,0.2708,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast.,Validate business event assumptions
+2026-02-02,Customer Service,FR,63.5,Medium,23.438,150.04,128.0,202.58,0.3542,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast.,Validate business event assumptions
+2026-02-02,Customer Service,IT,55.2,Low,23.859,155.22,125.0,232.45,0.3542,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-02-02,Sales,DE,82.0,High,79.995,224.63,188.0,340.12,0.9167,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-02,Sales,EN,64.4,Medium,4.963,66.3,57.0,83.74,0.0625,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-02,Sales,FR,62.6,Medium,6.03,78.43,56.0,111.71,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-02,Sales,IT,62.2,Medium,6.399,78.83,68.0,118.52,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-03,Customer Service,DE,87.4,High,145.215,339.94,298.0,454.82,0.8958,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-03,Customer Service,EN,67.9,Medium,16.032,107.9,95.0,146.81,0.2292,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-03,Customer Service,FR,70.6,Medium,12.705,125.71,91.0,196.41,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-03,Customer Service,IT,71.8,Medium,15.375,127.22,89.0,201.38,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-03,Sales,DE,80.7,High,71.408,211.88,167.0,306.94,0.8958,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-03,Sales,EN,63.9,Medium,5.579,59.13,54.0,78.43,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-03,Sales,FR,62.4,Medium,5.474,73.37,59.0,107.57,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-03,Sales,IT,62.5,Medium,5.896,71.27,60.0,107.17,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-04,Customer Service,DE,86.0,High,124.134,302.65,305.0,430.0,0.9375,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-04,Customer Service,EN,67.5,Medium,14.22,100.05,67.0,122.68,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-04,Customer Service,FR,68.1,Medium,16.538,119.53,95.0,188.4,0.2292,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-04,Customer Service,IT,70.7,Medium,16.264,115.8,85.0,160.32,0.2292,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-04,Sales,DE,79.1,High,42.714,188.58,159.0,231.99,0.4792,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-02-04,Sales,EN,66.7,Medium,4.507,49.62,50.0,57.03,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-04,Sales,FR,64.6,Medium,6.253,64.98,38.0,85.74,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-04,Sales,IT,64.3,Medium,6.257,68.89,49.0,86.26,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-05,Customer Service,DE,84.5,High,120.254,298.42,283.0,453.76,0.875,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-05,Customer Service,EN,62.7,Medium,13.045,87.06,72.0,103.39,0.2292,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-05,Customer Service,FR,69.5,Medium,11.492,115.58,77.0,166.04,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-05,Customer Service,IT,69.7,Medium,11.262,108.71,85.0,141.05,0.125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-05,Sales,DE,76.9,Medium,30.659,170.66,164.0,217.86,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-05,Sales,EN,65.8,Medium,4.646,48.79,44.0,62.38,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-05,Sales,FR,65.6,Medium,3.764,62.29,46.0,81.56,0.0417,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-05,Sales,IT,65.7,Medium,4.627,58.57,45.0,85.09,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-06,Customer Service,DE,84.4,High,103.032,274.2,228.0,401.57,0.7917,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-06,Customer Service,EN,64.0,Medium,7.722,88.54,53.0,104.06,0.125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-06,Customer Service,FR,67.1,Medium,10.075,101.97,68.0,133.65,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-06,Customer Service,IT,67.9,Medium,10.315,108.97,78.0,148.93,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-06,Sales,DE,73.3,Medium,25.932,157.81,122.0,216.94,0.3542,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-06,Sales,EN,66.4,Medium,2.536,52.16,25.0,61.55,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-06,Sales,FR,62.7,Medium,4.45,62.11,31.0,80.66,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-06,Sales,IT,64.8,Medium,4.458,59.06,44.0,77.19,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-07,Customer Service,DE,75.1,Medium,124.715,171.17,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-07,Customer Service,EN,61.0,Medium,36.655,36.39,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-07,Customer Service,FR,61.0,Medium,33.153,36.58,0.0,0.0,0.9167,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-07,Customer Service,IT,61.0,Medium,34.135,39.65,0.0,0.0,0.9375,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-07,Sales,DE,62.2,Medium,67.52,94.59,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-07,Sales,EN,61.0,Medium,11.014,23.83,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-07,Sales,FR,61.0,Medium,9.95,24.12,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-07,Sales,IT,61.0,Medium,9.562,24.12,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-08,Customer Service,DE,78.7,High,156.776,222.02,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-08,Customer Service,EN,61.0,Medium,46.19,53.9,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-08,Customer Service,FR,61.0,Medium,44.022,56.06,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-08,Customer Service,IT,61.0,Medium,44.226,59.14,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-08,Sales,DE,67.7,Medium,79.587,117.1,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-08,Sales,EN,61.0,Medium,13.779,29.78,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-08,Sales,FR,61.0,Medium,13.125,31.77,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-08,Sales,IT,61.0,Medium,12.596,31.77,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-02-09,Customer Service,DE,88.1,High,172.068,380.63,375.0,558.17,1.0,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-09,Customer Service,EN,70.4,Medium,17.255,116.65,99.0,161.8,0.2708,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-09,Customer Service,FR,70.3,Medium,18.306,138.2,92.0,246.25,0.2708,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-09,Customer Service,IT,68.7,Medium,15.833,129.82,108.0,237.72,0.2292,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-09,Sales,DE,78.8,High,54.825,224.43,218.0,355.89,0.5208,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-02-09,Sales,EN,64.7,Medium,5.38,66.35,43.0,89.93,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-09,Sales,FR,61.0,Medium,6.08,81.66,52.0,130.54,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-09,Sales,IT,60.7,Medium,6.18,80.16,51.0,125.06,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-10,Customer Service,DE,86.7,High,153.87,355.74,305.0,557.64,0.9583,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-10,Customer Service,EN,67.3,Medium,11.339,100.72,68.0,120.05,0.1667,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-10,Customer Service,FR,72.6,Medium,15.593,128.23,118.0,189.8,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-10,Customer Service,IT,70.5,Medium,13.738,125.88,99.0,186.88,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-10,Sales,DE,80.6,High,69.165,205.15,173.0,293.16,0.8333,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-10,Sales,EN,64.8,Medium,5.486,64.81,38.0,78.32,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-10,Sales,FR,61.2,Medium,5.794,71.8,48.0,91.62,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-10,Sales,IT,61.7,Medium,5.464,70.08,47.0,89.14,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-11,Customer Service,DE,85.3,High,124.846,311.2,274.0,481.81,0.9375,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-11,Customer Service,EN,65.4,Medium,9.954,95.34,76.0,118.33,0.125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-11,Customer Service,FR,69.2,Medium,11.256,117.05,82.0,173.63,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-11,Customer Service,IT,64.4,Medium,13.768,116.91,74.0,188.61,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-11,Sales,DE,79.1,High,40.609,189.76,157.0,245.97,0.4167,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-02-11,Sales,EN,65.3,Medium,5.309,56.82,42.0,66.05,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-11,Sales,FR,65.6,Medium,5.748,64.83,56.0,81.33,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-11,Sales,IT,65.0,Medium,5.148,66.71,48.0,84.17,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-12,Customer Service,DE,70.9,Medium,159.393,226.16,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-12,Customer Service,EN,53.0,Low,49.811,60.5,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-12,Customer Service,FR,53.0,Low,47.301,62.81,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-12,Customer Service,IT,53.0,Low,47.361,65.89,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-12,Sales,DE,60.7,Medium,82.447,122.43,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-12,Sales,EN,53.0,Low,14.815,31.31,0.0,0.0,0.0208,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-02-12,Sales,FR,53.0,Low,14.169,33.44,0.0,0.0,0.0208,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-02-12,Sales,IT,53.0,Low,13.252,33.44,0.0,0.0,0.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-02-13,Customer Service,DE,66.1,Medium,130.156,299.31,333.0,280.3,0.9583,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-13,Customer Service,EN,49.5,Low,9.683,76.22,97.0,74.66,0.125,Business event effect: holiday_rebound is active.,Planner review recommended before schedule freeze
+2026-02-13,Customer Service,FR,46.0,Low,14.737,101.06,106.0,102.22,0.2083,Business event effect: holiday_rebound is active.,Planner review recommended before schedule freeze
+2026-02-13,Customer Service,IT,43.0,Low,11.089,97.95,96.0,117.77,0.1667,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-02-13,Sales,DE,76.5,Medium,30.019,155.97,129.0,195.85,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-13,Sales,EN,67.4,Medium,4.743,48.72,30.0,56.85,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-13,Sales,FR,66.4,Medium,4.376,56.91,32.0,77.33,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-13,Sales,IT,65.5,Medium,3.773,55.41,33.0,67.31,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-14,Customer Service,DE,82.6,High,65.783,215.72,153.0,280.92,0.7292,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-02-14,Customer Service,EN,63.9,Medium,4.562,59.51,38.0,79.54,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-14,Customer Service,FR,63.1,Medium,4.724,69.49,49.0,104.47,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-14,Customer Service,IT,62.8,Medium,5.491,72.17,46.0,102.13,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-02-14,Sales,DE,71.7,Medium,18.673,121.01,93.0,135.15,0.2708,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-14,Sales,EN,67.2,Medium,2.474,36.65,23.0,39.75,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-14,Sales,FR,65.9,Medium,2.62,41.17,32.0,50.96,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-02-14,Sales,IT,67.9,Medium,2.887,42.86,35.0,48.77,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-03-01,Customer Service,DE,78.3,High,151.597,213.88,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-01,Customer Service,EN,61.0,Medium,46.214,53.92,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-01,Customer Service,FR,61.0,Medium,44.057,56.15,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-01,Customer Service,IT,61.0,Medium,44.265,59.23,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-01,Sales,DE,67.8,Medium,79.669,117.26,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-01,Sales,EN,61.0,Medium,13.778,29.78,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-01,Sales,FR,61.0,Medium,13.156,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-01,Sales,IT,61.0,Medium,12.626,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-02,Customer Service,DE,63.4,Medium,177.448,247.04,0.0,0.0,1.0,"Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle, public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.",Review staffing and consider targeted overtime
+2026-03-02,Customer Service,EN,44.7,Low,60.284,77.76,0.0,0.0,1.0,"Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle, public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.",Review staffing and consider targeted overtime
+2026-03-02,Customer Service,FR,44.1,Low,60.478,87.16,0.0,0.0,1.0,"Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle, public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.",Review staffing and consider targeted overtime
+2026-03-02,Customer Service,IT,32.5,Low,60.28,90.26,0.0,0.0,1.0,"Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle, public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.",Review staffing and consider targeted overtime
+2026-03-02,Sales,DE,64.4,Medium,95.236,146.3,0.0,0.0,1.0,Monday effect: historical volume is higher at the start of the week. Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-02,Sales,EN,53.0,Low,36.744,43.13,0.0,0.0,1.0,Monday effect: historical volume is higher at the start of the week. Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-02,Sales,FR,53.0,Low,37.458,50.03,0.0,0.0,1.0,Monday effect: historical volume is higher at the start of the week. Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-02,Sales,IT,53.0,Low,36.629,50.03,0.0,0.0,1.0,Monday effect: historical volume is higher at the start of the week. Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-03,Customer Service,DE,68.9,Medium,222.002,431.07,511.0,458.87,0.9375,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-03,Customer Service,EN,48.8,Low,19.617,118.91,128.0,131.12,0.2708,Business event effect: holiday_rebound is active.,Planner review recommended before schedule freeze
+2026-03-03,Customer Service,FR,51.7,Low,22.319,146.1,126.0,183.36,0.3125,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-03,Customer Service,IT,51.9,Low,22.119,135.05,127.0,170.66,0.2917,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-03,Sales,DE,74.1,Medium,50.826,231.38,202.0,447.28,0.5417,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-03-03,Sales,EN,61.1,Medium,5.062,71.35,52.0,116.64,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-03,Sales,FR,60.1,Medium,5.91,84.02,50.0,147.2,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-03,Sales,IT,62.3,Medium,5.138,78.31,47.0,123.54,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-04,Customer Service,DE,83.2,High,139.924,332.04,342.0,626.81,0.9167,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-04,Customer Service,EN,66.0,Medium,11.14,103.63,88.0,160.19,0.125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-04,Customer Service,FR,69.5,Medium,14.209,130.47,102.0,221.66,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-04,Customer Service,IT,69.6,Medium,15.012,130.61,103.0,233.58,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-04,Sales,DE,77.0,Medium,46.099,214.15,186.0,385.42,0.5208,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-03-04,Sales,EN,65.5,Medium,19.057,69.66,39.0,105.76,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-04,Sales,FR,60.8,Medium,6.204,77.5,65.0,129.76,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-04,Sales,IT,59.0,Medium,4.437,75.73,60.0,149.34,0.0625,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-05,Customer Service,DE,82.8,High,149.766,299.41,261.0,539.41,1.0,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-05,Customer Service,EN,65.6,Medium,11.624,101.54,67.0,147.53,0.1667,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-05,Customer Service,FR,65.5,Medium,13.252,121.06,102.0,228.87,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-05,Customer Service,IT,66.6,Medium,11.098,114.61,76.0,185.28,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-05,Sales,DE,76.5,Medium,36.273,196.03,141.0,313.51,0.4375,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-03-05,Sales,EN,64.0,Medium,5.73,60.18,48.0,85.48,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-05,Sales,FR,59.5,Medium,5.153,68.18,53.0,128.72,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-05,Sales,IT,58.4,Medium,5.515,74.68,50.0,142.2,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-06,Customer Service,DE,83.3,High,121.953,305.13,274.0,519.26,0.9375,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-06,Customer Service,EN,66.3,Medium,10.202,96.66,58.0,120.0,0.1667,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-06,Customer Service,FR,69.7,Medium,29.351,129.6,79.0,222.24,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-06,Customer Service,IT,69.5,Medium,28.14,110.75,79.0,179.31,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-06,Sales,DE,71.7,Medium,29.349,176.9,140.0,326.37,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-06,Sales,EN,64.5,Medium,4.079,58.46,45.0,81.64,0.0625,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-06,Sales,FR,60.1,Medium,3.05,69.63,40.0,122.34,0.0417,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-06,Sales,IT,64.0,Medium,3.909,64.21,33.0,98.66,0.0625,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-07,Customer Service,DE,75.1,Medium,124.723,171.23,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-07,Customer Service,EN,61.0,Medium,36.679,36.43,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-07,Customer Service,FR,61.0,Medium,33.185,36.64,0.0,0.0,0.9167,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-07,Customer Service,IT,61.0,Medium,34.164,39.72,0.0,0.0,0.9375,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-07,Sales,DE,62.2,Medium,67.533,94.61,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-07,Sales,EN,61.0,Medium,11.014,23.83,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-07,Sales,FR,61.0,Medium,9.96,24.14,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-07,Sales,IT,61.0,Medium,9.571,24.14,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-08,Customer Service,DE,78.7,High,156.766,222.07,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-08,Customer Service,EN,61.0,Medium,46.233,53.95,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-08,Customer Service,FR,61.0,Medium,44.071,56.17,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-08,Customer Service,IT,61.0,Medium,44.277,59.25,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-08,Sales,DE,67.7,Medium,79.593,117.12,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-08,Sales,EN,61.0,Medium,13.779,29.78,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-08,Sales,FR,61.0,Medium,13.153,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-08,Sales,IT,61.0,Medium,12.623,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-03-09,Customer Service,DE,86.1,High,189.232,407.21,406.0,717.25,1.0,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-09,Customer Service,EN,71.5,Medium,19.447,123.56,93.0,191.36,0.3333,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-09,Customer Service,FR,70.3,Medium,26.191,165.74,138.0,352.66,0.3333,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-09,Customer Service,IT,71.8,Medium,16.532,142.16,118.0,253.21,0.25,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-09,Sales,DE,77.3,Medium,56.109,236.05,228.0,399.05,0.5625,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-09,Sales,EN,62.0,Medium,5.491,77.14,57.0,125.29,0.0833,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-09,Sales,FR,58.9,Medium,7.118,84.45,63.0,151.47,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-09,Sales,IT,57.5,Low,7.289,86.98,75.0,165.76,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-10,Customer Service,DE,87.7,High,171.396,379.67,388.0,570.93,0.9792,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-10,Customer Service,EN,66.3,Medium,13.496,109.13,89.0,166.56,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-10,Customer Service,FR,70.5,Medium,20.492,139.51,106.0,261.45,0.2917,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-10,Customer Service,IT,69.0,Medium,15.732,128.48,110.0,225.23,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-10,Sales,DE,75.7,Medium,49.155,222.97,196.0,378.75,0.5417,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-03-10,Sales,EN,61.8,Medium,6.399,74.63,51.0,112.68,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-10,Sales,FR,57.7,Low,5.949,85.28,55.0,167.61,0.1042,Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-10,Sales,IT,54.8,Low,5.97,79.25,62.0,145.28,0.1042,Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-11,Customer Service,DE,84.0,High,139.557,329.03,329.0,605.29,1.0,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-11,Customer Service,EN,66.2,Medium,11.979,101.62,83.0,154.02,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-11,Customer Service,FR,70.0,Medium,25.441,138.4,91.0,228.0,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-11,Customer Service,IT,68.7,Medium,10.205,120.13,100.0,188.83,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-11,Sales,DE,72.2,Medium,56.431,242.28,213.0,340.65,0.5417,Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Validate business event assumptions
+2026-03-11,Sales,EN,56.5,Low,5.859,69.82,58.0,94.68,0.1042,Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-11,Sales,FR,51.8,Low,5.688,87.79,46.0,162.14,0.1042,Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-11,Sales,IT,52.7,Low,6.647,83.95,74.0,132.23,0.1042,Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-03-12,Customer Service,DE,83.2,High,139.792,331.09,298.0,616.15,0.9375,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-12,Customer Service,EN,64.5,Medium,12.329,101.3,78.0,156.15,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-12,Customer Service,FR,70.5,Medium,19.08,132.52,93.0,238.42,0.2917,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-12,Customer Service,IT,68.3,Medium,29.078,117.55,99.0,202.67,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-12,Sales,DE,75.0,Medium,44.301,209.68,151.0,366.61,0.4583,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-03-12,Sales,EN,63.0,Medium,4.715,58.63,43.0,93.36,0.0625,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-12,Sales,FR,59.5,Medium,5.365,67.99,48.0,127.41,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-12,Sales,IT,60.5,Medium,6.201,69.3,67.0,118.94,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-13,Customer Service,DE,86.1,High,129.08,314.47,278.0,478.22,0.9792,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-13,Customer Service,EN,62.2,Medium,5.623,87.87,60.0,118.97,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-13,Customer Service,FR,70.1,Medium,14.584,124.2,86.0,196.96,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-13,Customer Service,IT,67.0,Medium,9.588,116.35,81.0,199.33,0.125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-13,Sales,DE,74.0,Medium,36.487,188.05,151.0,332.13,0.4167,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-03-13,Sales,EN,64.0,Medium,5.452,58.37,47.0,81.7,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-13,Sales,FR,61.3,Medium,5.599,68.44,39.0,126.84,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-13,Sales,IT,60.9,Medium,5.764,69.79,41.0,118.88,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-14,Customer Service,DE,82.6,High,96.375,219.41,155.0,293.49,0.9167,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-03-14,Customer Service,EN,62.7,Medium,5.318,64.41,38.0,85.61,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-14,Customer Service,FR,62.0,Medium,7.149,77.84,54.0,125.84,0.125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-14,Customer Service,IT,62.2,Medium,5.46,78.37,54.0,113.75,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-14,Sales,DE,72.8,Medium,26.231,148.51,114.0,215.8,0.3333,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-14,Sales,EN,67.6,Medium,10.684,42.28,25.0,55.02,0.1875,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-03-14,Sales,FR,62.9,Medium,3.263,52.27,31.0,79.08,0.0417,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-03-14,Sales,IT,65.8,Medium,3.071,49.81,29.0,64.38,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-01,Customer Service,DE,68.9,Medium,79.09,207.06,371.0,112.01,0.6875,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-01,Customer Service,EN,52.9,Low,11.321,66.96,88.0,34.33,0.1458,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-04-01,Customer Service,FR,55.1,Low,11.328,89.11,94.0,82.52,0.1667,Business event effect: billing_cycle is active.,Planner review recommended before schedule freeze
+2026-04-01,Customer Service,IT,44.7,Low,13.611,82.12,110.0,69.24,0.1875,Business event effect: billing_cycle is active.,Planner review recommended before schedule freeze
+2026-04-01,Sales,DE,69.2,Medium,21.149,115.35,166.0,61.67,0.25,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-01,Sales,EN,65.8,Medium,3.966,32.95,42.0,17.98,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-01,Sales,FR,67.5,Medium,5.754,45.59,56.0,44.66,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-01,Sales,IT,67.6,Medium,4.84,44.0,43.0,37.98,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-02,Customer Service,DE,78.0,Medium,70.177,198.3,273.0,100.21,0.6875,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-02,Customer Service,EN,61.3,Medium,10.879,59.11,63.0,33.58,0.1875,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-02,Customer Service,FR,63.7,Medium,12.063,72.33,71.0,68.28,0.1875,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-02,Customer Service,IT,64.8,Medium,14.005,80.81,100.0,81.72,0.1875,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-02,Sales,DE,68.9,Medium,25.288,114.0,182.0,53.78,0.2917,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-02,Sales,EN,65.1,Medium,4.373,31.44,41.0,14.4,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-02,Sales,FR,68.5,Medium,5.192,42.39,46.0,39.53,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-02,Sales,IT,67.2,Medium,5.033,40.01,49.0,33.32,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-03,Customer Service,DE,75.9,Medium,55.52,186.29,266.0,84.75,0.5,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-04-03,Customer Service,EN,61.8,Medium,8.073,55.9,73.0,29.02,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-03,Customer Service,FR,62.3,Medium,7.802,74.04,70.0,76.4,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-03,Customer Service,IT,66.3,Medium,7.304,68.59,64.0,62.8,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-03,Sales,DE,68.5,Medium,17.068,110.33,119.0,48.76,0.2292,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-03,Sales,EN,65.7,Medium,3.105,31.84,37.0,18.41,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-03,Sales,FR,68.0,Medium,3.841,41.02,55.0,37.2,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-03,Sales,IT,67.1,Medium,4.054,38.13,58.0,34.31,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-04,Customer Service,DE,75.1,Medium,124.842,171.42,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-04,Customer Service,EN,61.0,Medium,36.659,36.4,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-04,Customer Service,FR,61.0,Medium,33.172,36.62,0.0,0.0,0.9167,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-04,Customer Service,IT,61.0,Medium,34.156,39.69,0.0,0.0,0.9375,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-04,Sales,DE,62.2,Medium,67.556,94.66,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-04,Sales,EN,61.0,Medium,11.015,23.83,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-04,Sales,FR,61.0,Medium,9.965,24.15,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-04,Sales,IT,61.0,Medium,9.578,24.15,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-05,Customer Service,DE,78.7,High,156.882,222.26,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-05,Customer Service,EN,61.0,Medium,46.217,53.91,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-05,Customer Service,FR,61.0,Medium,44.056,56.14,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-05,Customer Service,IT,61.0,Medium,44.264,59.22,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-05,Sales,DE,67.7,Medium,79.617,117.16,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-05,Sales,EN,61.0,Medium,13.78,29.78,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-05,Sales,FR,61.0,Medium,13.156,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-05,Sales,IT,61.0,Medium,12.629,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-06,Customer Service,DE,81.9,High,78.017,216.09,406.0,137.33,0.6458,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-06,Customer Service,EN,61.4,Medium,10.046,71.44,117.0,40.18,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-06,Customer Service,FR,66.0,Medium,10.517,93.6,105.0,91.33,0.125,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-06,Customer Service,IT,64.6,Medium,11.284,91.97,122.0,89.8,0.125,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-06,Sales,DE,71.6,Medium,25.331,133.57,214.0,75.82,0.2917,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-06,Sales,EN,65.6,Medium,5.385,42.13,56.0,21.21,0.0833,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-06,Sales,FR,64.6,Medium,6.35,58.11,68.0,58.34,0.1042,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-06,Sales,IT,65.7,Medium,5.629,54.23,69.0,53.54,0.0833,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-07,Customer Service,DE,59.2,Medium,98.242,225.17,436.0,128.97,0.7917,Business event effect: service_incident is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-07,Customer Service,EN,39.4,Low,11.788,67.94,125.0,38.24,0.1042,Business event effect: service_incident is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-04-07,Customer Service,FR,43.4,Low,13.29,85.29,142.0,83.69,0.1458,Business event effect: service_incident is active.,Planner review recommended before schedule freeze
+2026-04-07,Customer Service,IT,46.7,Low,26.007,88.82,114.0,79.68,0.375,Business event effect: service_incident is active.,Planner review recommended before schedule freeze
+2026-04-07,Sales,DE,70.3,Medium,22.87,124.18,204.0,64.41,0.2083,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-07,Sales,EN,65.1,Medium,4.888,37.1,51.0,16.94,0.0625,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-07,Sales,FR,67.8,Medium,5.27,48.94,49.0,45.27,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-07,Sales,IT,67.5,Medium,5.479,45.45,62.0,39.34,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-08,Customer Service,DE,79.0,High,65.756,200.63,320.0,98.9,0.5208,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-04-08,Customer Service,EN,60.9,Medium,8.009,66.01,86.0,34.42,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-08,Customer Service,FR,64.2,Medium,8.81,88.07,109.0,88.58,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-08,Customer Service,IT,65.3,Medium,7.559,78.73,98.0,68.8,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-08,Sales,DE,71.9,Medium,23.187,125.27,147.0,57.31,0.3125,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-08,Sales,EN,65.5,Medium,4.131,33.16,52.0,17.14,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-08,Sales,FR,68.1,Medium,4.56,47.38,54.0,43.93,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-08,Sales,IT,67.1,Medium,5.155,42.93,53.0,36.73,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-09,Customer Service,DE,79.5,High,64.902,201.35,292.0,99.35,0.5625,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-09,Customer Service,EN,56.6,Low,7.92,60.07,76.0,32.99,0.1042,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-04-09,Customer Service,FR,64.8,Medium,8.573,79.86,89.0,78.19,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-09,Customer Service,IT,68.4,Medium,21.636,75.67,80.0,73.21,0.375,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-09,Sales,DE,70.1,Medium,18.604,113.39,161.0,53.26,0.2292,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-09,Sales,EN,65.3,Medium,2.904,31.2,33.0,15.07,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-09,Sales,FR,66.9,Medium,8.196,40.89,42.0,40.02,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-09,Sales,IT,67.9,Medium,3.005,39.82,42.0,35.18,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-10,Customer Service,DE,79.9,High,61.898,200.98,248.0,99.6,0.625,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-10,Customer Service,EN,60.5,Medium,7.514,53.52,79.0,26.5,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-10,Customer Service,FR,65.1,Medium,7.673,72.21,76.0,71.52,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-10,Customer Service,IT,66.8,Medium,6.344,65.33,75.0,55.62,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-10,Sales,DE,69.3,Medium,32.034,104.65,149.0,52.42,0.375,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-10,Sales,EN,65.2,Medium,2.865,30.12,33.0,14.05,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-10,Sales,FR,68.3,Medium,4.16,43.13,48.0,40.47,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-10,Sales,IT,67.4,Medium,3.435,38.89,42.0,31.92,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-11,Customer Service,DE,72.7,Medium,35.62,142.76,186.0,60.77,0.3958,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-11,Customer Service,EN,65.3,Medium,5.772,37.66,53.0,18.85,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-11,Customer Service,FR,67.1,Medium,4.954,43.2,59.0,38.62,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-11,Customer Service,IT,67.2,Medium,4.863,45.12,50.0,41.21,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-11,Sales,DE,60.1,Medium,10.277,92.74,101.0,32.76,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-11,Sales,EN,64.3,Medium,2.267,24.0,25.0,8.88,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-11,Sales,FR,67.7,Medium,2.39,27.06,29.0,22.82,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-11,Sales,IT,67.6,Medium,2.449,25.42,30.0,19.84,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-12,Customer Service,DE,78.8,High,157.399,223.07,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-12,Customer Service,EN,61.0,Medium,46.22,53.92,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-12,Customer Service,FR,61.0,Medium,44.06,56.15,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-12,Customer Service,IT,61.0,Medium,44.268,59.23,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-12,Sales,DE,67.9,Medium,80.112,118.08,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-12,Sales,EN,61.0,Medium,13.784,29.8,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-12,Sales,FR,61.0,Medium,13.159,31.85,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-12,Sales,IT,61.0,Medium,12.632,31.85,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-13,Customer Service,DE,80.8,High,78.558,214.49,420.0,141.26,0.6875,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-13,Customer Service,EN,62.3,Medium,9.784,74.56,97.0,43.96,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-13,Customer Service,FR,66.0,Medium,12.34,97.78,117.0,105.87,0.1458,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-13,Customer Service,IT,66.5,Medium,10.152,97.32,111.0,93.22,0.1042,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-13,Sales,DE,70.7,Medium,28.246,131.93,240.0,65.34,0.25,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-13,Sales,EN,65.4,Medium,5.78,42.3,51.0,22.68,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-13,Sales,FR,67.4,Medium,4.829,54.27,58.0,51.2,0.0625,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-13,Sales,IT,67.9,Medium,4.495,49.2,67.0,45.96,0.0208,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-04-14,Customer Service,DE,81.0,High,74.14,215.69,338.0,116.12,0.625,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-04-14,Customer Service,EN,61.6,Medium,8.699,70.51,87.0,39.92,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-14,Customer Service,FR,65.3,Medium,11.425,86.61,101.0,81.4,0.1458,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-14,Customer Service,IT,64.8,Medium,8.881,85.43,90.0,79.19,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-14,Sales,DE,71.5,Medium,23.882,132.07,191.0,67.82,0.2917,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-14,Sales,EN,65.9,Medium,3.752,37.09,45.0,21.03,0.0208,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-04-14,Sales,FR,67.7,Medium,2.976,50.72,45.0,47.56,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-04-14,Sales,IT,68.1,Medium,4.442,44.98,54.0,39.35,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-05-01,Customer Service,DE,63.0,Medium,149.746,333.45,320.0,539.28,0.8958,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-01,Customer Service,EN,49.0,Low,11.014,102.58,83.0,149.59,0.125,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-01,Customer Service,FR,46.8,Low,10.753,110.68,91.0,164.99,0.1458,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-01,Customer Service,IT,47.4,Low,15.361,119.38,96.0,193.88,0.2083,Business event effect: billing_cycle is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-01,Sales,DE,74.0,Medium,29.928,174.85,153.0,306.54,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-01,Sales,EN,65.1,Medium,5.653,58.99,45.0,82.0,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-01,Sales,FR,59.6,Medium,5.426,70.84,47.0,130.11,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-01,Sales,IT,60.7,Medium,4.21,68.53,40.0,114.5,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-02,Customer Service,DE,74.8,Medium,122.855,168.29,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-02,Customer Service,EN,61.0,Medium,36.669,36.42,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-02,Customer Service,FR,61.0,Medium,33.175,36.64,0.0,0.0,0.9167,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-02,Customer Service,IT,61.0,Medium,34.157,39.71,0.0,0.0,0.9375,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-02,Sales,DE,62.2,Medium,67.517,94.59,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-02,Sales,EN,61.0,Medium,11.013,23.83,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-02,Sales,FR,61.0,Medium,9.964,24.15,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-02,Sales,IT,61.0,Medium,9.577,24.15,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-03,Customer Service,DE,78.0,High,149.293,210.23,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-03,Customer Service,EN,61.0,Medium,46.243,53.97,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-03,Customer Service,FR,61.0,Medium,44.079,56.2,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-03,Customer Service,IT,61.0,Medium,44.283,59.28,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-03,Sales,DE,67.7,Medium,79.601,117.14,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-03,Sales,EN,61.0,Medium,13.778,29.78,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-03,Sales,FR,61.0,Medium,13.158,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-03,Sales,IT,61.0,Medium,12.631,31.84,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-04,Customer Service,DE,88.0,High,206.409,434.56,432.0,704.42,1.0,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-04,Customer Service,EN,71.3,Medium,18.127,121.35,117.0,187.51,0.2292,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-04,Customer Service,FR,71.4,Medium,17.323,145.25,121.0,266.02,0.25,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-04,Customer Service,IT,70.6,Medium,19.465,150.64,126.0,309.27,0.2917,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-04,Sales,DE,74.7,Medium,59.749,246.31,208.0,504.91,0.5417,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-05-04,Sales,EN,61.1,Medium,6.802,77.25,59.0,118.33,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-04,Sales,FR,57.4,Low,6.607,91.52,73.0,183.36,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-04,Sales,IT,59.9,Medium,6.013,90.2,65.0,149.67,0.1042,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-05,Customer Service,DE,86.2,High,171.092,378.6,375.0,631.44,1.0,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-05,Customer Service,EN,67.5,Medium,16.201,111.92,103.0,176.85,0.25,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-05,Customer Service,FR,70.6,Medium,19.133,146.9,105.0,275.68,0.2708,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-05,Customer Service,IT,65.4,Medium,14.444,137.43,122.0,288.11,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-05,Sales,DE,76.5,Medium,52.479,228.27,211.0,406.02,0.5417,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-05-05,Sales,EN,61.7,Medium,6.246,67.93,63.0,112.83,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-05,Sales,FR,58.9,Medium,4.706,83.22,47.0,159.92,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-05,Sales,IT,56.7,Low,5.455,78.46,58.0,159.75,0.1042,Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-06,Customer Service,DE,81.2,High,133.134,321.32,305.0,671.68,0.9792,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-06,Customer Service,EN,67.8,Medium,13.094,111.29,91.0,182.23,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-06,Customer Service,FR,68.8,Medium,14.585,132.96,100.0,245.89,0.2292,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-06,Customer Service,IT,68.6,Medium,13.385,131.45,91.0,224.37,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-06,Sales,DE,80.0,High,78.63,226.71,179.0,400.64,0.875,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-06,Sales,EN,62.9,Medium,5.835,66.3,44.0,96.85,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-06,Sales,FR,54.2,Low,5.994,77.05,60.0,140.84,0.1042,Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-06,Sales,IT,58.3,Medium,5.868,78.91,50.0,141.7,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-07,Customer Service,DE,84.8,High,133.817,319.13,326.0,540.35,0.9792,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-07,Customer Service,EN,64.7,Medium,10.876,99.18,81.0,142.47,0.125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-07,Customer Service,FR,67.8,Medium,12.689,122.67,99.0,207.21,0.1667,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-07,Customer Service,IT,65.5,Medium,8.172,118.93,69.0,208.73,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-07,Sales,DE,76.0,Medium,41.783,204.56,155.0,358.14,0.4792,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-05-07,Sales,EN,63.9,Medium,5.753,64.22,45.0,93.9,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-07,Sales,FR,61.0,Medium,5.251,72.74,49.0,128.2,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-07,Sales,IT,58.9,Medium,6.063,72.04,55.0,133.24,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-08,Customer Service,DE,85.1,High,132.63,317.97,313.0,531.34,1.0,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-08,Customer Service,EN,65.0,Medium,10.126,99.51,58.0,145.35,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-08,Customer Service,FR,66.8,Medium,12.086,116.27,110.0,190.91,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-08,Customer Service,IT,65.8,Medium,9.382,114.45,75.0,189.74,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-08,Sales,DE,72.1,Medium,33.845,180.66,150.0,362.14,0.3958,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-08,Sales,EN,64.0,Medium,5.135,60.25,38.0,89.1,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-08,Sales,FR,65.5,Medium,16.218,67.8,40.0,105.69,0.3542,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-08,Sales,IT,63.1,Medium,17.933,69.73,48.0,127.6,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-09,Customer Service,DE,82.7,High,101.203,224.88,160.0,326.54,0.9583,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-09,Customer Service,EN,59.2,Medium,5.41,63.85,49.0,86.11,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-09,Customer Service,FR,62.1,Medium,5.556,78.28,44.0,112.43,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-09,Customer Service,IT,61.2,Medium,5.859,77.3,50.0,122.0,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-09,Sales,DE,72.7,Medium,21.984,139.78,94.0,193.74,0.3125,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-09,Sales,EN,66.3,Medium,4.56,46.23,28.0,59.78,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-05-09,Sales,FR,64.1,Medium,4.02,53.06,37.0,81.11,0.0625,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-09,Sales,IT,65.1,Medium,3.816,50.98,31.0,75.5,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-10,Customer Service,DE,78.8,High,157.279,222.88,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-10,Customer Service,EN,61.0,Medium,46.251,53.98,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-10,Customer Service,FR,61.0,Medium,44.082,56.21,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-10,Customer Service,IT,61.0,Medium,44.285,59.28,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-10,Sales,DE,67.9,Medium,79.977,117.83,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-10,Sales,EN,61.0,Medium,13.784,29.8,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-10,Sales,FR,61.0,Medium,13.159,31.85,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-10,Sales,IT,61.0,Medium,12.632,31.85,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-05-11,Customer Service,DE,85.7,High,227.748,421.59,412.0,795.14,1.0,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-11,Customer Service,EN,67.5,Medium,17.456,119.72,96.0,213.21,0.25,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-11,Customer Service,FR,73.2,Medium,27.593,164.98,134.0,325.77,0.2708,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-11,Customer Service,IT,69.8,Medium,18.293,153.52,120.0,314.65,0.2292,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-11,Sales,DE,73.8,Medium,70.892,272.35,273.0,453.5,0.6667,Monday effect: historical volume is higher at the start of the week. Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-11,Sales,EN,52.7,Low,6.785,82.46,73.0,132.62,0.1042,Monday effect: historical volume is higher at the start of the week. Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-11,Sales,FR,57.0,Low,22.935,102.91,78.0,198.58,0.3542,Monday effect: historical volume is higher at the start of the week. Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-11,Sales,IT,52.9,Low,6.694,96.34,85.0,168.28,0.1042,Monday effect: historical volume is higher at the start of the week. Business event effect: sales_offer is active. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-12,Customer Service,DE,86.6,High,189.837,411.55,358.0,719.71,1.0,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-12,Customer Service,EN,66.3,Medium,15.957,109.99,90.0,195.07,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-12,Customer Service,FR,72.6,Medium,21.183,142.32,111.0,255.38,0.2292,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-12,Customer Service,IT,69.6,Medium,14.486,134.94,109.0,227.76,0.1875,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-12,Sales,DE,77.4,Medium,52.452,232.59,173.0,387.66,0.5625,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-12,Sales,EN,59.7,Medium,6.771,74.03,61.0,129.46,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-12,Sales,FR,59.1,Medium,6.59,80.59,70.0,141.71,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-12,Sales,IT,60.3,Medium,6.14,79.17,57.0,126.25,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-13,Customer Service,DE,86.3,High,146.855,338.33,363.0,535.33,0.9583,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-13,Customer Service,EN,67.8,Medium,13.895,105.69,97.0,146.34,0.2083,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-13,Customer Service,FR,69.8,Medium,17.643,124.27,91.0,202.57,0.25,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-13,Customer Service,IT,68.4,Medium,12.663,127.96,102.0,222.58,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-13,Sales,DE,75.4,Medium,46.698,223.95,161.0,417.71,0.5833,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-13,Sales,EN,58.2,Medium,5.195,66.09,37.0,99.37,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-13,Sales,FR,54.1,Low,5.03,78.76,53.0,148.23,0.0833,Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-13,Sales,IT,59.8,Medium,5.318,78.84,59.0,134.58,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-14,Customer Service,DE,85.0,High,145.189,339.28,305.0,586.41,0.9583,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-05-14,Customer Service,EN,66.8,Medium,15.064,101.47,85.0,146.81,0.25,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-14,Customer Service,FR,70.3,Medium,33.132,132.5,92.0,231.51,0.375,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-14,Customer Service,IT,65.9,Medium,10.394,116.63,80.0,203.52,0.1458,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-14,Sales,DE,72.6,Medium,41.865,212.15,186.0,402.21,0.5,Partner correction: partner forecast is materially above the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-05-14,Sales,EN,61.8,Medium,5.14,63.15,41.0,95.21,0.0833,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-05-14,Sales,FR,57.7,Low,5.555,75.68,55.0,146.29,0.1042,Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-05-14,Sales,IT,61.4,Medium,5.207,68.68,44.0,121.16,0.1042,Partner correction: partner forecast is materially above the model forecast.,Monitor
+2026-06-01,Customer Service,DE,63.2,Medium,146.199,245.49,554.0,160.68,1.0,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-01,Customer Service,EN,41.1,Low,13.853,79.2,132.0,51.84,0.1667,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-01,Customer Service,FR,48.6,Low,17.374,119.94,158.0,126.86,0.2292,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active.,Planner review recommended before schedule freeze
+2026-06-01,Customer Service,IT,40.8,Low,18.453,106.05,153.0,98.38,0.25,Monday effect: historical volume is higher at the start of the week. Business event effect: billing_cycle is active.,Planner review recommended before schedule freeze
+2026-06-01,Sales,DE,65.9,Medium,41.346,166.87,260.0,151.5,0.3542,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-06-01,Sales,EN,60.9,Medium,6.966,55.91,65.0,52.66,0.1042,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-06-01,Sales,FR,53.9,Low,6.526,67.18,67.0,78.58,0.1042,Monday effect: historical volume is higher at the start of the week.,Planner review recommended before schedule freeze
+2026-06-01,Sales,IT,51.9,Low,5.72,63.98,69.0,72.8,0.0833,Monday effect: historical volume is higher at the start of the week.,Planner review recommended before schedule freeze
+2026-06-02,Customer Service,DE,71.2,Medium,171.596,237.64,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-02,Customer Service,EN,52.4,Low,56.62,70.8,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-02,Customer Service,FR,52.4,Low,55.227,76.48,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-02,Customer Service,IT,53.0,Low,54.695,79.59,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-02,Sales,DE,63.8,Medium,99.415,148.43,0.0,0.0,1.0,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-02,Sales,EN,51.5,Low,34.471,38.25,0.0,0.0,0.9583,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-02,Sales,FR,40.8,Low,35.084,43.79,0.0,0.0,0.9792,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-02,Sales,IT,39.6,Low,32.822,43.79,0.0,0.0,0.8958,Business event effect: public_holiday is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-03,Customer Service,DE,57.8,Low,145.044,245.26,494.0,0.0,1.0,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-03,Customer Service,EN,34.5,Low,14.628,72.52,142.0,0.0,0.1458,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-03,Customer Service,FR,38.8,Low,16.051,79.83,172.0,32.79,0.1458,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-03,Customer Service,IT,37.2,Low,14.665,81.88,150.0,26.41,0.1458,Business event effect: holiday_rebound is active. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-03,Sales,DE,62.8,Medium,46.207,143.87,205.0,129.96,0.5,Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-06-03,Sales,EN,56.1,Low,7.469,46.29,54.0,43.62,0.125,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-03,Sales,FR,54.9,Low,7.49,60.48,66.0,68.97,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-03,Sales,IT,50.7,Low,7.134,58.6,66.0,69.45,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-04,Customer Service,DE,78.5,High,70.849,200.12,368.0,125.84,0.5833,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-04,Customer Service,EN,55.6,Low,7.885,62.68,76.0,38.92,0.1042,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-04,Customer Service,FR,65.0,Medium,24.685,89.0,100.0,92.71,0.375,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-04,Customer Service,IT,64.4,Medium,8.69,81.91,106.0,83.41,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-04,Sales,DE,64.6,Medium,30.029,146.38,166.0,142.06,0.3542,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-04,Sales,EN,55.2,Low,3.514,41.05,45.0,36.37,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-04,Sales,FR,54.8,Low,13.424,57.58,62.0,72.44,0.2292,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-04,Sales,IT,53.0,Low,5.332,55.52,51.0,65.38,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-05,Customer Service,DE,76.0,Medium,66.873,199.14,271.0,93.03,0.625,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-05,Customer Service,EN,56.0,Low,7.788,55.79,79.0,35.69,0.1042,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-05,Customer Service,FR,61.3,Medium,8.427,80.91,94.0,86.15,0.125,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-05,Customer Service,IT,66.6,Medium,8.337,72.96,97.0,66.18,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-05,Sales,DE,65.7,Medium,30.755,139.37,174.0,133.81,0.3542,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-05,Sales,EN,55.0,Low,3.538,35.14,33.0,28.32,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-05,Sales,FR,54.6,Low,5.171,53.25,49.0,62.05,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-05,Sales,IT,52.7,Low,4.45,52.86,45.0,56.76,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-06,Customer Service,DE,75.4,Medium,130.307,174.69,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-06,Customer Service,EN,60.4,Medium,37.943,37.59,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-06,Customer Service,FR,60.1,Medium,35.106,37.83,0.0,0.0,0.9583,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-06,Customer Service,IT,61.0,Medium,35.94,40.91,0.0,0.0,0.9792,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-06,Sales,DE,61.9,Medium,71.053,97.45,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-06,Sales,EN,48.8,Low,11.999,24.96,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-06,Sales,FR,48.8,Low,10.762,25.31,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-06,Sales,IT,47.6,Low,10.276,25.31,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-07,Customer Service,DE,79.0,High,164.704,227.6,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-07,Customer Service,EN,60.7,Medium,47.791,55.1,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-07,Customer Service,FR,60.4,Medium,45.603,57.34,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-07,Customer Service,IT,61.0,Medium,45.572,60.44,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-07,Sales,DE,67.5,Medium,84.758,122.09,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-07,Sales,EN,49.0,Low,15.541,30.92,0.0,0.0,0.0417,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-07,Sales,FR,48.8,Low,14.4,33.01,0.0,0.0,0.0208,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-07,Sales,IT,47.6,Low,13.389,33.01,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-08,Customer Service,DE,81.9,High,141.182,257.33,457.0,181.78,0.9792,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-08,Customer Service,EN,49.3,Low,12.596,72.98,108.0,46.48,0.1458,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-08,Customer Service,FR,66.2,Medium,16.783,114.62,142.0,125.8,0.2083,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-06-08,Customer Service,IT,67.3,Medium,10.856,105.79,114.0,110.75,0.125,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-06-08,Sales,DE,66.1,Medium,43.069,183.21,253.0,180.7,0.4792,Monday effect: historical volume is higher at the start of the week. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-06-08,Sales,EN,58.9,Medium,5.937,55.28,56.0,48.5,0.1042,Monday effect: historical volume is higher at the start of the week.,Monitor
+2026-06-08,Sales,FR,52.2,Low,5.972,74.64,75.0,94.29,0.0833,Monday effect: historical volume is higher at the start of the week. Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-06-08,Sales,IT,51.6,Low,5.364,70.26,71.0,81.13,0.0833,Monday effect: historical volume is higher at the start of the week.,Planner review recommended before schedule freeze
+2026-06-09,Customer Service,DE,77.2,Medium,87.7,227.39,388.0,147.04,0.7083,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-09,Customer Service,EN,54.8,Low,9.825,72.06,96.0,40.9,0.125,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-09,Customer Service,FR,62.5,Medium,14.244,94.87,118.0,96.63,0.1875,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-09,Customer Service,IT,64.5,Medium,12.001,96.56,133.0,98.98,0.1458,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-09,Sales,DE,67.4,Medium,36.967,156.01,211.0,146.72,0.3958,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-09,Sales,EN,61.0,Medium,5.451,46.41,64.0,40.87,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-09,Sales,FR,54.7,Low,17.485,69.72,68.0,87.82,0.2917,Partner correction: partner forecast is materially above the model forecast.,Planner review recommended before schedule freeze
+2026-06-09,Sales,IT,53.0,Low,5.851,59.93,71.0,70.54,0.0833,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-10,Customer Service,DE,82.7,High,106.391,207.98,402.0,137.72,0.8958,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-10,Customer Service,EN,55.3,Low,9.963,68.41,95.0,38.32,0.125,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-10,Customer Service,FR,61.6,Medium,11.915,88.19,112.0,92.81,0.1875,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-10,Customer Service,IT,65.2,Medium,10.507,76.84,118.0,71.0,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-10,Sales,DE,65.3,Medium,29.026,145.09,215.0,142.5,0.3125,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-10,Sales,EN,55.7,Low,3.217,40.72,44.0,37.09,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-10,Sales,FR,53.9,Low,6.072,59.79,54.0,66.29,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-10,Sales,IT,52.1,Low,4.224,60.56,60.0,66.06,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-11,Customer Service,DE,80.1,High,101.155,203.74,363.0,112.88,0.8958,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-11,Customer Service,EN,60.3,Medium,22.218,59.16,88.0,37.72,0.375,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-06-11,Customer Service,FR,62.7,Medium,12.249,87.7,131.0,96.2,0.125,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-11,Customer Service,IT,64.7,Medium,10.107,82.0,106.0,78.54,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-11,Sales,DE,64.6,Medium,23.595,139.43,172.0,136.96,0.2708,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-11,Sales,EN,56.3,Low,3.67,43.78,47.0,41.14,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-11,Sales,FR,54.9,Low,4.957,56.6,55.0,64.06,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-11,Sales,IT,53.5,Low,4.458,57.67,57.0,65.8,0.0417,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-12,Customer Service,DE,78.9,High,72.131,213.93,291.0,107.26,0.6458,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-12,Customer Service,EN,58.7,Medium,6.788,55.69,63.0,30.63,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-06-12,Customer Service,FR,63.9,Medium,12.472,82.82,118.0,87.06,0.125,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-12,Customer Service,IT,66.4,Medium,8.252,75.53,90.0,74.91,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-12,Sales,DE,61.9,Medium,22.213,132.34,158.0,139.33,0.2708,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-12,Sales,EN,54.2,Low,2.87,40.98,40.0,35.97,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-12,Sales,FR,54.9,Low,4.188,51.78,44.0,53.11,0.0625,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-12,Sales,IT,52.8,Low,3.468,51.51,45.0,57.42,0.0208,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-13,Customer Service,DE,72.3,Medium,44.785,151.06,222.0,74.91,0.4792,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Monitor
+2026-06-13,Customer Service,EN,62.0,Medium,6.542,40.5,59.0,22.27,0.1042,Partner correction: partner forecast is materially below the model forecast.,Monitor
+2026-06-13,Customer Service,FR,64.4,Medium,6.712,50.88,65.0,49.72,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-13,Customer Service,IT,66.6,Medium,6.302,48.89,61.0,46.15,0.1042,"Stable pattern: normal weekday, interval and language seasonality dominate.",Monitor
+2026-06-13,Sales,DE,54.3,Low,12.382,97.82,118.0,81.19,0.1458,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-13,Sales,EN,54.5,Low,2.112,28.71,22.0,24.46,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-13,Sales,FR,53.7,Low,2.189,37.52,28.0,43.09,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-13,Sales,IT,55.3,Low,2.513,36.94,36.0,38.88,0.0,"Stable pattern: normal weekday, interval and language seasonality dominate.",Planner review recommended before schedule freeze
+2026-06-14,Customer Service,DE,78.9,High,162.611,224.31,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-14,Customer Service,EN,60.7,Medium,47.796,55.11,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-14,Customer Service,FR,60.7,Medium,45.608,57.35,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-14,Customer Service,IT,61.0,Medium,45.577,60.45,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-14,Sales,DE,55.2,Low,83.015,118.8,0.0,0.0,1.0,Partner correction: partner forecast is materially below the model forecast. Capacity pressure: many intervals are flagged as understaffing risk.,Review staffing and consider targeted overtime
+2026-06-14,Sales,EN,47.9,Low,15.58,30.93,0.0,0.0,0.0417,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-14,Sales,FR,47.6,Low,14.417,33.02,0.0,0.0,0.0208,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze
+2026-06-14,Sales,IT,47.6,Low,13.393,33.02,0.0,0.0,0.0,Partner correction: partner forecast is materially below the model forecast.,Planner review recommended before schedule freeze

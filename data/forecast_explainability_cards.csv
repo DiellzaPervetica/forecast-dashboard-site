@@ -1,0 +1,673 @@
+date,queue,language,forecast_summary,confidence_label,main_drivers
+2026-01-01,Customer Service,DE,203.96,Medium,Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-01-01,Customer Service,EN,60.82,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-01-01,Customer Service,FR,82.46,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-01-01,Customer Service,IT,81.64,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-01-01,Sales,DE,108.78,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-01,Sales,EN,32.76,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-01,Sales,FR,47.76,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-01,Sales,IT,45.49,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-02,Customer Service,DE,183.02,High,Required FTE exceeds scheduled available capacity.
+2026-01-02,Customer Service,EN,56.59,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-02,Customer Service,FR,77.5,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-02,Customer Service,IT,67.06,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-02,Sales,DE,115.91,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-02,Sales,EN,31.05,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-02,Sales,FR,43.6,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-02,Sales,IT,43.22,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-03,Customer Service,DE,165.62,High,Required FTE exceeds scheduled available capacity.
+2026-01-03,Customer Service,EN,36.86,High,Required FTE exceeds scheduled available capacity.
+2026-01-03,Customer Service,FR,37.08,High,Required FTE exceeds scheduled available capacity.
+2026-01-03,Customer Service,IT,40.16,High,Required FTE exceeds scheduled available capacity.
+2026-01-03,Sales,DE,95.13,High,Required FTE exceeds scheduled available capacity.
+2026-01-03,Sales,EN,24.3,High,Required FTE exceeds scheduled available capacity.
+2026-01-03,Sales,FR,24.62,High,Required FTE exceeds scheduled available capacity.
+2026-01-03,Sales,IT,24.62,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Customer Service,DE,224.2,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Customer Service,EN,54.37,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Customer Service,FR,56.56,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Customer Service,IT,59.64,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Sales,DE,118.65,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Sales,EN,30.25,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Sales,FR,32.27,High,Required FTE exceeds scheduled available capacity.
+2026-01-04,Sales,IT,32.27,High,Required FTE exceeds scheduled available capacity.
+2026-01-05,Customer Service,DE,276.1,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-01-05,Customer Service,EN,80.83,High,Monday historically carries the strongest contact volume.
+2026-01-05,Customer Service,FR,120.34,High,Monday historically carries the strongest contact volume.
+2026-01-05,Customer Service,IT,107.3,High,Monday historically carries the strongest contact volume.
+2026-01-05,Sales,DE,141.05,High,Monday historically carries the strongest contact volume.
+2026-01-05,Sales,EN,46.5,High,Monday historically carries the strongest contact volume.
+2026-01-05,Sales,FR,60.81,High,Monday historically carries the strongest contact volume.
+2026-01-05,Sales,IT,57.15,High,Monday historically carries the strongest contact volume.
+2026-01-06,Customer Service,DE,275.88,High,Required FTE exceeds scheduled available capacity.
+2026-01-06,Customer Service,EN,69.22,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-06,Customer Service,FR,100.94,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-06,Customer Service,IT,89.1,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-06,Sales,DE,140.44,High,Required FTE exceeds scheduled available capacity.
+2026-01-06,Sales,EN,39.78,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-06,Sales,FR,54.46,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-06,Sales,IT,50.61,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-07,Customer Service,DE,212.44,High,Required FTE exceeds scheduled available capacity.
+2026-01-07,Customer Service,EN,67.74,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-07,Customer Service,FR,89.75,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-07,Customer Service,IT,85.33,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-07,Sales,DE,122.07,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-07,Sales,EN,35.41,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-07,Sales,FR,54.76,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-07,Sales,IT,48.86,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-08,Customer Service,DE,209.12,High,Required FTE exceeds scheduled available capacity.
+2026-01-08,Customer Service,EN,59.71,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-08,Customer Service,FR,83.57,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-08,Customer Service,IT,82.0,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-08,Sales,DE,116.63,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-08,Sales,EN,32.33,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-08,Sales,FR,49.28,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-08,Sales,IT,44.24,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-09,Customer Service,DE,211.37,High,Required FTE exceeds scheduled available capacity.
+2026-01-09,Customer Service,EN,55.92,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-09,Customer Service,FR,73.06,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-09,Customer Service,IT,72.13,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-09,Sales,DE,112.02,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-09,Sales,EN,32.35,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-09,Sales,FR,45.85,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-09,Sales,IT,41.46,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-10,Customer Service,DE,153.74,High,Required FTE exceeds scheduled available capacity.
+2026-01-10,Customer Service,EN,38.72,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-10,Customer Service,FR,48.39,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-10,Customer Service,IT,49.96,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-10,Sales,DE,93.72,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-10,Sales,EN,24.36,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-10,Sales,FR,29.77,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-10,Sales,IT,28.0,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-11,Customer Service,DE,224.78,High,Required FTE exceeds scheduled available capacity.
+2026-01-11,Customer Service,EN,54.38,High,Required FTE exceeds scheduled available capacity.
+2026-01-11,Customer Service,FR,56.54,High,Required FTE exceeds scheduled available capacity.
+2026-01-11,Customer Service,IT,59.62,High,Required FTE exceeds scheduled available capacity.
+2026-01-11,Sales,DE,119.26,High,Required FTE exceeds scheduled available capacity.
+2026-01-11,Sales,EN,30.27,High,Required FTE exceeds scheduled available capacity.
+2026-01-11,Sales,FR,32.25,High,Required FTE exceeds scheduled available capacity.
+2026-01-11,Sales,IT,32.25,High,Required FTE exceeds scheduled available capacity.
+2026-01-12,Customer Service,DE,274.77,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-01-12,Customer Service,EN,79.69,High,Monday historically carries the strongest contact volume.
+2026-01-12,Customer Service,FR,110.31,High,Monday historically carries the strongest contact volume.
+2026-01-12,Customer Service,IT,105.56,High,Monday historically carries the strongest contact volume.
+2026-01-12,Sales,DE,143.86,High,Monday historically carries the strongest contact volume.
+2026-01-12,Sales,EN,48.06,High,Monday historically carries the strongest contact volume.
+2026-01-12,Sales,FR,62.05,High,Monday historically carries the strongest contact volume.
+2026-01-12,Sales,IT,61.1,High,Monday historically carries the strongest contact volume.
+2026-01-13,Customer Service,DE,281.95,High,Required FTE exceeds scheduled available capacity.
+2026-01-13,Customer Service,EN,72.34,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-13,Customer Service,FR,96.34,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-13,Customer Service,IT,93.13,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-13,Sales,DE,141.05,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-13,Sales,EN,40.42,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-13,Sales,FR,58.07,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-13,Sales,IT,49.93,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-14,Customer Service,DE,221.38,High,Required FTE exceeds scheduled available capacity.
+2026-01-14,Customer Service,EN,64.19,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-14,Customer Service,FR,92.52,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-14,Customer Service,IT,87.48,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-14,Sales,DE,130.66,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-14,Sales,EN,34.33,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-14,Sales,FR,50.94,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-01-14,Sales,IT,48.57,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-01,Customer Service,DE,213.85,High,Required FTE exceeds scheduled available capacity.
+2026-02-01,Customer Service,EN,53.87,High,Required FTE exceeds scheduled available capacity.
+2026-02-01,Customer Service,FR,56.06,High,Required FTE exceeds scheduled available capacity.
+2026-02-01,Customer Service,IT,59.14,High,Required FTE exceeds scheduled available capacity.
+2026-02-01,Sales,DE,117.28,High,Required FTE exceeds scheduled available capacity.
+2026-02-01,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-02-01,Sales,FR,31.8,High,Required FTE exceeds scheduled available capacity.
+2026-02-01,Sales,IT,31.8,High,Required FTE exceeds scheduled available capacity.
+2026-02-02,Customer Service,DE,459.71,Low,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-02-02,Customer Service,EN,122.99,Medium,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts.
+2026-02-02,Customer Service,FR,150.04,Medium,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts.
+2026-02-02,Customer Service,IT,155.22,Medium,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts.
+2026-02-02,Sales,DE,224.63,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-02-02,Sales,EN,66.3,High,Monday historically carries the strongest contact volume.
+2026-02-02,Sales,FR,78.43,High,Monday historically carries the strongest contact volume.
+2026-02-02,Sales,IT,78.83,High,Monday historically carries the strongest contact volume.
+2026-02-03,Customer Service,DE,339.94,High,Required FTE exceeds scheduled available capacity.
+2026-02-03,Customer Service,EN,107.9,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-03,Customer Service,FR,125.71,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-03,Customer Service,IT,127.22,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-03,Sales,DE,211.88,High,Required FTE exceeds scheduled available capacity.
+2026-02-03,Sales,EN,59.13,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-03,Sales,FR,73.37,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-03,Sales,IT,71.27,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-04,Customer Service,DE,302.65,High,Required FTE exceeds scheduled available capacity.
+2026-02-04,Customer Service,EN,100.05,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-04,Customer Service,FR,119.53,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-04,Customer Service,IT,115.8,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-04,Sales,DE,188.58,High,Required FTE exceeds scheduled available capacity.
+2026-02-04,Sales,EN,49.62,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-04,Sales,FR,64.98,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-04,Sales,IT,68.89,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-05,Customer Service,DE,298.42,High,Required FTE exceeds scheduled available capacity.
+2026-02-05,Customer Service,EN,87.05,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-05,Customer Service,FR,115.58,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-05,Customer Service,IT,108.71,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-05,Sales,DE,170.66,High,Required FTE exceeds scheduled available capacity.
+2026-02-05,Sales,EN,48.79,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-05,Sales,FR,62.29,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-05,Sales,IT,58.56,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-06,Customer Service,DE,274.2,High,Required FTE exceeds scheduled available capacity.
+2026-02-06,Customer Service,EN,88.54,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-06,Customer Service,FR,101.97,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-06,Customer Service,IT,108.97,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-06,Sales,DE,157.81,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-06,Sales,EN,52.16,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-06,Sales,FR,62.11,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-06,Sales,IT,59.06,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-07,Customer Service,DE,171.16,High,Required FTE exceeds scheduled available capacity.
+2026-02-07,Customer Service,EN,36.39,High,Required FTE exceeds scheduled available capacity.
+2026-02-07,Customer Service,FR,36.58,High,Required FTE exceeds scheduled available capacity.
+2026-02-07,Customer Service,IT,39.65,High,Required FTE exceeds scheduled available capacity.
+2026-02-07,Sales,DE,94.59,High,Required FTE exceeds scheduled available capacity.
+2026-02-07,Sales,EN,23.83,High,Required FTE exceeds scheduled available capacity.
+2026-02-07,Sales,FR,24.12,High,Required FTE exceeds scheduled available capacity.
+2026-02-07,Sales,IT,24.12,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Customer Service,DE,222.02,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Customer Service,EN,53.9,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Customer Service,FR,56.06,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Customer Service,IT,59.14,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Sales,DE,117.1,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Sales,FR,31.77,High,Required FTE exceeds scheduled available capacity.
+2026-02-08,Sales,IT,31.77,High,Required FTE exceeds scheduled available capacity.
+2026-02-09,Customer Service,DE,380.63,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-02-09,Customer Service,EN,116.65,High,Monday historically carries the strongest contact volume.
+2026-02-09,Customer Service,FR,138.21,High,Monday historically carries the strongest contact volume.
+2026-02-09,Customer Service,IT,129.82,High,Monday historically carries the strongest contact volume.
+2026-02-09,Sales,DE,224.43,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-02-09,Sales,EN,66.35,High,Monday historically carries the strongest contact volume.
+2026-02-09,Sales,FR,81.66,High,Monday historically carries the strongest contact volume.
+2026-02-09,Sales,IT,80.16,High,Monday historically carries the strongest contact volume.
+2026-02-10,Customer Service,DE,355.74,High,Required FTE exceeds scheduled available capacity.
+2026-02-10,Customer Service,EN,100.72,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-10,Customer Service,FR,128.23,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-10,Customer Service,IT,125.88,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-10,Sales,DE,205.15,High,Required FTE exceeds scheduled available capacity.
+2026-02-10,Sales,EN,64.81,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-10,Sales,FR,71.8,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-10,Sales,IT,70.08,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-11,Customer Service,DE,311.2,High,Required FTE exceeds scheduled available capacity.
+2026-02-11,Customer Service,EN,95.34,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-11,Customer Service,FR,117.05,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-11,Customer Service,IT,116.91,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-11,Sales,DE,189.76,High,Required FTE exceeds scheduled available capacity.
+2026-02-11,Sales,EN,56.82,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-11,Sales,FR,64.83,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-11,Sales,IT,66.71,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-12,Customer Service,DE,226.16,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-12,Customer Service,EN,60.5,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-12,Customer Service,FR,62.81,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-12,Customer Service,IT,65.89,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-12,Sales,DE,122.43,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-12,Sales,EN,31.31,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-12,Sales,FR,33.44,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-12,Sales,IT,33.44,Medium,Required FTE exceeds scheduled available capacity.
+2026-02-13,Customer Service,DE,299.31,Medium,A post-holiday rebound is expected after a closed day. Required FTE exceeds scheduled available capacity.
+2026-02-13,Customer Service,EN,76.22,Medium,A post-holiday rebound is expected after a closed day.
+2026-02-13,Customer Service,FR,101.06,Medium,A post-holiday rebound is expected after a closed day.
+2026-02-13,Customer Service,IT,97.95,Medium,A post-holiday rebound is expected after a closed day.
+2026-02-13,Sales,DE,155.97,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-13,Sales,EN,48.73,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-13,Sales,FR,56.91,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-13,Sales,IT,55.41,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-14,Customer Service,DE,215.72,High,Required FTE exceeds scheduled available capacity.
+2026-02-14,Customer Service,EN,59.51,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-14,Customer Service,FR,69.49,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-14,Customer Service,IT,72.17,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-14,Sales,DE,121.01,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-14,Sales,EN,36.65,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-14,Sales,FR,41.16,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-02-14,Sales,IT,42.86,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-01,Customer Service,DE,213.88,High,Required FTE exceeds scheduled available capacity.
+2026-03-01,Customer Service,EN,53.91,High,Required FTE exceeds scheduled available capacity.
+2026-03-01,Customer Service,FR,56.15,High,Required FTE exceeds scheduled available capacity.
+2026-03-01,Customer Service,IT,59.23,High,Required FTE exceeds scheduled available capacity.
+2026-03-01,Sales,DE,117.26,High,Required FTE exceeds scheduled available capacity.
+2026-03-01,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-03-01,Sales,FR,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-03-01,Sales,IT,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-03-02,Customer Service,DE,247.04,Low,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-03-02,Customer Service,EN,77.76,Low,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-03-02,Customer Service,FR,87.16,Low,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-03-02,Customer Service,IT,90.26,Low,Monday historically carries the strongest contact volume. Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-03-02,Sales,DE,146.3,Medium,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-03-02,Sales,EN,43.13,Medium,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-03-02,Sales,FR,50.03,Medium,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-03-02,Sales,IT,50.03,Medium,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-03-03,Customer Service,DE,431.07,Medium,A post-holiday rebound is expected after a closed day. Required FTE exceeds scheduled available capacity.
+2026-03-03,Customer Service,EN,118.91,Medium,A post-holiday rebound is expected after a closed day.
+2026-03-03,Customer Service,FR,146.09,Medium,A post-holiday rebound is expected after a closed day.
+2026-03-03,Customer Service,IT,135.05,Medium,A post-holiday rebound is expected after a closed day.
+2026-03-03,Sales,DE,231.38,High,Required FTE exceeds scheduled available capacity.
+2026-03-03,Sales,EN,71.35,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-03,Sales,FR,84.02,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-03,Sales,IT,78.31,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-04,Customer Service,DE,332.04,High,Required FTE exceeds scheduled available capacity.
+2026-03-04,Customer Service,EN,103.63,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-04,Customer Service,FR,130.47,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-04,Customer Service,IT,130.61,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-04,Sales,DE,214.15,High,Required FTE exceeds scheduled available capacity.
+2026-03-04,Sales,EN,69.66,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-04,Sales,FR,77.5,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-04,Sales,IT,75.73,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-05,Customer Service,DE,299.41,High,Required FTE exceeds scheduled available capacity.
+2026-03-05,Customer Service,EN,101.55,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-05,Customer Service,FR,121.06,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-05,Customer Service,IT,114.61,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-05,Sales,DE,196.03,High,Required FTE exceeds scheduled available capacity.
+2026-03-05,Sales,EN,60.18,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-05,Sales,FR,68.18,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-05,Sales,IT,74.68,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-06,Customer Service,DE,305.13,High,Required FTE exceeds scheduled available capacity.
+2026-03-06,Customer Service,EN,96.66,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-06,Customer Service,FR,129.6,High,Required FTE exceeds scheduled available capacity.
+2026-03-06,Customer Service,IT,110.75,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-06,Sales,DE,176.9,High,Required FTE exceeds scheduled available capacity.
+2026-03-06,Sales,EN,58.46,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-06,Sales,FR,69.63,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-06,Sales,IT,64.21,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-07,Customer Service,DE,171.23,High,Required FTE exceeds scheduled available capacity.
+2026-03-07,Customer Service,EN,36.43,High,Required FTE exceeds scheduled available capacity.
+2026-03-07,Customer Service,FR,36.64,High,Required FTE exceeds scheduled available capacity.
+2026-03-07,Customer Service,IT,39.72,High,Required FTE exceeds scheduled available capacity.
+2026-03-07,Sales,DE,94.61,High,Required FTE exceeds scheduled available capacity.
+2026-03-07,Sales,EN,23.83,High,Required FTE exceeds scheduled available capacity.
+2026-03-07,Sales,FR,24.14,High,Required FTE exceeds scheduled available capacity.
+2026-03-07,Sales,IT,24.14,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Customer Service,DE,222.07,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Customer Service,EN,53.95,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Customer Service,FR,56.17,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Customer Service,IT,59.25,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Sales,DE,117.12,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Sales,FR,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-03-08,Sales,IT,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-03-09,Customer Service,DE,407.21,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-03-09,Customer Service,EN,123.56,High,Monday historically carries the strongest contact volume.
+2026-03-09,Customer Service,FR,165.74,High,Monday historically carries the strongest contact volume.
+2026-03-09,Customer Service,IT,142.16,High,Monday historically carries the strongest contact volume.
+2026-03-09,Sales,DE,236.05,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-03-09,Sales,EN,77.14,High,Monday historically carries the strongest contact volume.
+2026-03-09,Sales,FR,84.45,High,Monday historically carries the strongest contact volume.
+2026-03-09,Sales,IT,86.98,High,Monday historically carries the strongest contact volume.
+2026-03-10,Customer Service,DE,379.67,High,Required FTE exceeds scheduled available capacity.
+2026-03-10,Customer Service,EN,109.13,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-10,Customer Service,FR,139.51,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-10,Customer Service,IT,128.48,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-10,Sales,DE,222.97,High,Required FTE exceeds scheduled available capacity.
+2026-03-10,Sales,EN,74.63,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-10,Sales,FR,85.28,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-10,Sales,IT,79.25,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-11,Customer Service,DE,329.03,High,Required FTE exceeds scheduled available capacity.
+2026-03-11,Customer Service,EN,101.61,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-11,Customer Service,FR,138.4,High,Required FTE exceeds scheduled available capacity.
+2026-03-11,Customer Service,IT,120.13,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-11,Sales,DE,242.28,Medium,A Sales offer event increases demand for campaign response intervals. Required FTE exceeds scheduled available capacity.
+2026-03-11,Sales,EN,69.82,Medium,A Sales offer event increases demand for campaign response intervals.
+2026-03-11,Sales,FR,87.79,Medium,A Sales offer event increases demand for campaign response intervals.
+2026-03-11,Sales,IT,83.95,Medium,A Sales offer event increases demand for campaign response intervals.
+2026-03-12,Customer Service,DE,331.09,High,Required FTE exceeds scheduled available capacity.
+2026-03-12,Customer Service,EN,101.3,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-12,Customer Service,FR,132.52,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-12,Customer Service,IT,117.55,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-12,Sales,DE,209.68,High,Required FTE exceeds scheduled available capacity.
+2026-03-12,Sales,EN,58.63,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-12,Sales,FR,67.99,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-12,Sales,IT,69.3,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-13,Customer Service,DE,314.47,High,Required FTE exceeds scheduled available capacity.
+2026-03-13,Customer Service,EN,87.87,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-13,Customer Service,FR,124.2,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-13,Customer Service,IT,116.35,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-13,Sales,DE,188.05,High,Required FTE exceeds scheduled available capacity.
+2026-03-13,Sales,EN,58.37,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-13,Sales,FR,68.44,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-13,Sales,IT,69.79,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-14,Customer Service,DE,219.41,High,Required FTE exceeds scheduled available capacity.
+2026-03-14,Customer Service,EN,64.41,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-14,Customer Service,FR,77.84,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-14,Customer Service,IT,78.37,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-14,Sales,DE,148.51,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-14,Sales,EN,42.28,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-14,Sales,FR,52.27,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-03-14,Sales,IT,49.81,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-01,Customer Service,DE,207.06,Medium,Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-04-01,Customer Service,EN,66.96,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-04-01,Customer Service,FR,89.11,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-04-01,Customer Service,IT,82.12,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-04-01,Sales,DE,115.35,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-01,Sales,EN,32.95,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-01,Sales,FR,45.59,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-01,Sales,IT,44.0,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-02,Customer Service,DE,198.3,High,Required FTE exceeds scheduled available capacity.
+2026-04-02,Customer Service,EN,59.11,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-02,Customer Service,FR,72.33,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-02,Customer Service,IT,80.81,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-02,Sales,DE,114.0,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-02,Sales,EN,31.44,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-02,Sales,FR,42.39,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-02,Sales,IT,40.01,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-03,Customer Service,DE,186.29,High,Required FTE exceeds scheduled available capacity.
+2026-04-03,Customer Service,EN,55.9,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-03,Customer Service,FR,74.04,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-03,Customer Service,IT,68.59,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-03,Sales,DE,110.33,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-03,Sales,EN,31.84,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-03,Sales,FR,41.02,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-03,Sales,IT,38.13,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-04,Customer Service,DE,171.42,High,Required FTE exceeds scheduled available capacity.
+2026-04-04,Customer Service,EN,36.4,High,Required FTE exceeds scheduled available capacity.
+2026-04-04,Customer Service,FR,36.62,High,Required FTE exceeds scheduled available capacity.
+2026-04-04,Customer Service,IT,39.69,High,Required FTE exceeds scheduled available capacity.
+2026-04-04,Sales,DE,94.66,High,Required FTE exceeds scheduled available capacity.
+2026-04-04,Sales,EN,23.83,High,Required FTE exceeds scheduled available capacity.
+2026-04-04,Sales,FR,24.15,High,Required FTE exceeds scheduled available capacity.
+2026-04-04,Sales,IT,24.15,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Customer Service,DE,222.26,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Customer Service,EN,53.91,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Customer Service,FR,56.14,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Customer Service,IT,59.22,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Sales,DE,117.16,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Sales,FR,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-04-05,Sales,IT,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-04-06,Customer Service,DE,216.09,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-04-06,Customer Service,EN,71.44,High,Monday historically carries the strongest contact volume.
+2026-04-06,Customer Service,FR,93.6,High,Monday historically carries the strongest contact volume.
+2026-04-06,Customer Service,IT,91.97,High,Monday historically carries the strongest contact volume.
+2026-04-06,Sales,DE,133.57,High,Monday historically carries the strongest contact volume.
+2026-04-06,Sales,EN,42.13,High,Monday historically carries the strongest contact volume.
+2026-04-06,Sales,FR,58.11,High,Monday historically carries the strongest contact volume.
+2026-04-06,Sales,IT,54.23,High,Monday historically carries the strongest contact volume.
+2026-04-07,Customer Service,DE,225.17,Medium,A simulated service incident increases contact volume and AHT. Required FTE exceeds scheduled available capacity.
+2026-04-07,Customer Service,EN,67.94,Medium,A simulated service incident increases contact volume and AHT.
+2026-04-07,Customer Service,FR,85.29,Medium,A simulated service incident increases contact volume and AHT.
+2026-04-07,Customer Service,IT,88.83,Medium,A simulated service incident increases contact volume and AHT.
+2026-04-07,Sales,DE,124.18,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-07,Sales,EN,37.09,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-07,Sales,FR,48.94,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-07,Sales,IT,45.45,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-08,Customer Service,DE,200.63,High,Required FTE exceeds scheduled available capacity.
+2026-04-08,Customer Service,EN,66.01,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-08,Customer Service,FR,88.07,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-08,Customer Service,IT,78.73,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-08,Sales,DE,125.27,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-08,Sales,EN,33.16,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-08,Sales,FR,47.38,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-08,Sales,IT,42.93,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-09,Customer Service,DE,201.35,High,Required FTE exceeds scheduled available capacity.
+2026-04-09,Customer Service,EN,60.07,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-09,Customer Service,FR,79.86,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-09,Customer Service,IT,75.67,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-09,Sales,DE,113.39,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-09,Sales,EN,31.2,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-09,Sales,FR,40.89,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-09,Sales,IT,39.82,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-10,Customer Service,DE,200.98,High,Required FTE exceeds scheduled available capacity.
+2026-04-10,Customer Service,EN,53.52,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-10,Customer Service,FR,72.21,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-10,Customer Service,IT,65.33,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-10,Sales,DE,104.65,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-10,Sales,EN,30.12,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-10,Sales,FR,43.13,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-10,Sales,IT,38.89,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-11,Customer Service,DE,142.76,High,Required FTE exceeds scheduled available capacity.
+2026-04-11,Customer Service,EN,37.66,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-11,Customer Service,FR,43.2,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-11,Customer Service,IT,45.12,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-11,Sales,DE,92.73,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-11,Sales,EN,24.0,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-11,Sales,FR,27.06,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-11,Sales,IT,25.42,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-12,Customer Service,DE,223.07,High,Required FTE exceeds scheduled available capacity.
+2026-04-12,Customer Service,EN,53.92,High,Required FTE exceeds scheduled available capacity.
+2026-04-12,Customer Service,FR,56.15,High,Required FTE exceeds scheduled available capacity.
+2026-04-12,Customer Service,IT,59.23,High,Required FTE exceeds scheduled available capacity.
+2026-04-12,Sales,DE,118.08,High,Required FTE exceeds scheduled available capacity.
+2026-04-12,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-04-12,Sales,FR,31.85,High,Required FTE exceeds scheduled available capacity.
+2026-04-12,Sales,IT,31.85,High,Required FTE exceeds scheduled available capacity.
+2026-04-13,Customer Service,DE,214.49,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-04-13,Customer Service,EN,74.56,High,Monday historically carries the strongest contact volume.
+2026-04-13,Customer Service,FR,97.78,High,Monday historically carries the strongest contact volume.
+2026-04-13,Customer Service,IT,97.32,High,Monday historically carries the strongest contact volume.
+2026-04-13,Sales,DE,131.93,High,Monday historically carries the strongest contact volume.
+2026-04-13,Sales,EN,42.3,High,Monday historically carries the strongest contact volume.
+2026-04-13,Sales,FR,54.27,High,Monday historically carries the strongest contact volume.
+2026-04-13,Sales,IT,49.2,High,Monday historically carries the strongest contact volume.
+2026-04-14,Customer Service,DE,215.69,High,Required FTE exceeds scheduled available capacity.
+2026-04-14,Customer Service,EN,70.51,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-14,Customer Service,FR,86.61,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-14,Customer Service,IT,85.43,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-14,Sales,DE,132.07,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-14,Sales,EN,37.09,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-14,Sales,FR,50.72,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-04-14,Sales,IT,44.98,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-01,Customer Service,DE,333.45,Medium,Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-05-01,Customer Service,EN,102.58,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-05-01,Customer Service,FR,110.67,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-05-01,Customer Service,IT,119.38,Medium,Billing-cycle traffic increases Customer Service contacts.
+2026-05-01,Sales,DE,174.85,High,Required FTE exceeds scheduled available capacity.
+2026-05-01,Sales,EN,58.99,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-01,Sales,FR,70.84,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-01,Sales,IT,68.53,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-02,Customer Service,DE,168.29,High,Required FTE exceeds scheduled available capacity.
+2026-05-02,Customer Service,EN,36.42,High,Required FTE exceeds scheduled available capacity.
+2026-05-02,Customer Service,FR,36.64,High,Required FTE exceeds scheduled available capacity.
+2026-05-02,Customer Service,IT,39.71,High,Required FTE exceeds scheduled available capacity.
+2026-05-02,Sales,DE,94.59,High,Required FTE exceeds scheduled available capacity.
+2026-05-02,Sales,EN,23.83,High,Required FTE exceeds scheduled available capacity.
+2026-05-02,Sales,FR,24.15,High,Required FTE exceeds scheduled available capacity.
+2026-05-02,Sales,IT,24.15,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Customer Service,DE,210.22,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Customer Service,EN,53.97,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Customer Service,FR,56.2,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Customer Service,IT,59.28,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Sales,DE,117.14,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Sales,FR,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-05-03,Sales,IT,31.84,High,Required FTE exceeds scheduled available capacity.
+2026-05-04,Customer Service,DE,434.56,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-05-04,Customer Service,EN,121.35,High,Monday historically carries the strongest contact volume.
+2026-05-04,Customer Service,FR,145.25,High,Monday historically carries the strongest contact volume.
+2026-05-04,Customer Service,IT,150.63,High,Monday historically carries the strongest contact volume.
+2026-05-04,Sales,DE,246.31,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-05-04,Sales,EN,77.25,High,Monday historically carries the strongest contact volume.
+2026-05-04,Sales,FR,91.53,High,Monday historically carries the strongest contact volume.
+2026-05-04,Sales,IT,90.2,High,Monday historically carries the strongest contact volume.
+2026-05-05,Customer Service,DE,378.6,High,Required FTE exceeds scheduled available capacity.
+2026-05-05,Customer Service,EN,111.92,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-05,Customer Service,FR,146.9,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-05,Customer Service,IT,137.43,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-05,Sales,DE,228.27,High,Required FTE exceeds scheduled available capacity.
+2026-05-05,Sales,EN,67.93,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-05,Sales,FR,83.22,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-05,Sales,IT,78.47,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-06,Customer Service,DE,321.32,High,Required FTE exceeds scheduled available capacity.
+2026-05-06,Customer Service,EN,111.29,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-06,Customer Service,FR,132.97,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-06,Customer Service,IT,131.45,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-06,Sales,DE,226.71,High,Required FTE exceeds scheduled available capacity.
+2026-05-06,Sales,EN,66.3,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-06,Sales,FR,77.05,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-06,Sales,IT,78.91,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-07,Customer Service,DE,319.13,High,Required FTE exceeds scheduled available capacity.
+2026-05-07,Customer Service,EN,99.18,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-07,Customer Service,FR,122.67,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-07,Customer Service,IT,118.93,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-07,Sales,DE,204.56,High,Required FTE exceeds scheduled available capacity.
+2026-05-07,Sales,EN,64.22,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-07,Sales,FR,72.74,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-07,Sales,IT,72.04,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-08,Customer Service,DE,317.97,High,Required FTE exceeds scheduled available capacity.
+2026-05-08,Customer Service,EN,99.51,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-08,Customer Service,FR,116.27,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-08,Customer Service,IT,114.45,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-08,Sales,DE,180.66,High,Required FTE exceeds scheduled available capacity.
+2026-05-08,Sales,EN,60.25,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-08,Sales,FR,67.8,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-08,Sales,IT,69.73,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-09,Customer Service,DE,224.88,High,Required FTE exceeds scheduled available capacity.
+2026-05-09,Customer Service,EN,63.85,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-09,Customer Service,FR,78.28,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-09,Customer Service,IT,77.3,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-09,Sales,DE,139.78,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-09,Sales,EN,46.23,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-09,Sales,FR,53.06,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-09,Sales,IT,50.98,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-10,Customer Service,DE,222.88,High,Required FTE exceeds scheduled available capacity.
+2026-05-10,Customer Service,EN,53.98,High,Required FTE exceeds scheduled available capacity.
+2026-05-10,Customer Service,FR,56.21,High,Required FTE exceeds scheduled available capacity.
+2026-05-10,Customer Service,IT,59.28,High,Required FTE exceeds scheduled available capacity.
+2026-05-10,Sales,DE,117.83,High,Required FTE exceeds scheduled available capacity.
+2026-05-10,Sales,EN,29.79,High,Required FTE exceeds scheduled available capacity.
+2026-05-10,Sales,FR,31.85,High,Required FTE exceeds scheduled available capacity.
+2026-05-10,Sales,IT,31.85,High,Required FTE exceeds scheduled available capacity.
+2026-05-11,Customer Service,DE,421.59,High,Monday historically carries the strongest contact volume. Required FTE exceeds scheduled available capacity.
+2026-05-11,Customer Service,EN,119.72,High,Monday historically carries the strongest contact volume.
+2026-05-11,Customer Service,FR,164.98,High,Monday historically carries the strongest contact volume.
+2026-05-11,Customer Service,IT,153.52,High,Monday historically carries the strongest contact volume.
+2026-05-11,Sales,DE,272.35,Low,Monday historically carries the strongest contact volume. A Sales offer event increases demand for campaign response intervals. Required FTE exceeds scheduled available capacity.
+2026-05-11,Sales,EN,82.46,Medium,Monday historically carries the strongest contact volume. A Sales offer event increases demand for campaign response intervals.
+2026-05-11,Sales,FR,102.91,Medium,Monday historically carries the strongest contact volume. A Sales offer event increases demand for campaign response intervals.
+2026-05-11,Sales,IT,96.34,Medium,Monday historically carries the strongest contact volume. A Sales offer event increases demand for campaign response intervals.
+2026-05-12,Customer Service,DE,411.55,High,Required FTE exceeds scheduled available capacity.
+2026-05-12,Customer Service,EN,109.99,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-12,Customer Service,FR,142.32,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-12,Customer Service,IT,134.94,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-12,Sales,DE,232.59,High,Required FTE exceeds scheduled available capacity.
+2026-05-12,Sales,EN,74.03,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-12,Sales,FR,80.59,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-12,Sales,IT,79.17,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-13,Customer Service,DE,338.33,High,Required FTE exceeds scheduled available capacity.
+2026-05-13,Customer Service,EN,105.69,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-13,Customer Service,FR,124.27,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-13,Customer Service,IT,127.96,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-13,Sales,DE,223.95,High,Required FTE exceeds scheduled available capacity.
+2026-05-13,Sales,EN,66.09,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-13,Sales,FR,78.76,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-13,Sales,IT,78.84,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-14,Customer Service,DE,339.28,High,Required FTE exceeds scheduled available capacity.
+2026-05-14,Customer Service,EN,101.47,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-14,Customer Service,FR,132.5,High,Required FTE exceeds scheduled available capacity.
+2026-05-14,Customer Service,IT,116.63,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-14,Sales,DE,212.15,High,Required FTE exceeds scheduled available capacity.
+2026-05-14,Sales,EN,63.15,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-14,Sales,FR,75.68,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-05-14,Sales,IT,68.68,High,"Forecast is mostly driven by normal weekday, interval and language seasonality."
+2026-06-01,Customer Service,DE,245.49,Low,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar. Billing-cycle traffic increases Customer Service contacts. Required FTE exceeds scheduled available capacity.
+2026-06-01,Customer Service,EN,79.2,Low,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar. Billing-cycle traffic increases Customer Service contacts.
+2026-06-01,Customer Service,FR,119.94,Low,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar. Billing-cycle traffic increases Customer Service contacts.
+2026-06-01,Customer Service,IT,106.05,Low,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar. Billing-cycle traffic increases Customer Service contacts.
+2026-06-01,Sales,DE,166.87,Low,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-01,Sales,EN,55.91,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-01,Sales,FR,67.18,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-01,Sales,IT,63.98,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-02,Customer Service,DE,237.64,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-02,Customer Service,EN,70.8,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-02,Customer Service,FR,76.48,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-02,Customer Service,IT,79.59,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-02,Sales,DE,148.43,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-02,Sales,EN,38.25,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-02,Sales,FR,43.79,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-02,Sales,IT,43.79,Medium,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-03,Customer Service,DE,245.26,Low,The month is treated as a peak season in the simulated business calendar. A post-holiday rebound is expected after a closed day. Required FTE exceeds scheduled available capacity.
+2026-06-03,Customer Service,EN,72.52,Medium,The month is treated as a peak season in the simulated business calendar. A post-holiday rebound is expected after a closed day.
+2026-06-03,Customer Service,FR,79.83,Medium,The month is treated as a peak season in the simulated business calendar. A post-holiday rebound is expected after a closed day.
+2026-06-03,Customer Service,IT,81.88,Medium,The month is treated as a peak season in the simulated business calendar. A post-holiday rebound is expected after a closed day.
+2026-06-03,Sales,DE,143.87,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-03,Sales,EN,46.29,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-03,Sales,FR,60.48,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-03,Sales,IT,58.6,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-04,Customer Service,DE,200.12,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-04,Customer Service,EN,62.67,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-04,Customer Service,FR,89.0,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-04,Customer Service,IT,81.91,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-04,Sales,DE,146.38,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-04,Sales,EN,41.05,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-04,Sales,FR,57.58,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-04,Sales,IT,55.52,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-05,Customer Service,DE,199.14,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-05,Customer Service,EN,55.79,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-05,Customer Service,FR,80.91,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-05,Customer Service,IT,72.97,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-05,Sales,DE,139.37,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-05,Sales,EN,35.14,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-05,Sales,FR,53.25,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-05,Sales,IT,52.86,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-06,Customer Service,DE,174.69,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-06,Customer Service,EN,37.59,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-06,Customer Service,FR,37.83,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-06,Customer Service,IT,40.91,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-06,Sales,DE,97.45,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-06,Sales,EN,24.96,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-06,Sales,FR,25.31,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-06,Sales,IT,25.31,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Customer Service,DE,227.6,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Customer Service,EN,55.11,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Customer Service,FR,57.34,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Customer Service,IT,60.44,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Sales,DE,122.09,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Sales,EN,30.92,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Sales,FR,33.01,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-07,Sales,IT,33.01,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-08,Customer Service,DE,257.33,Low,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-08,Customer Service,EN,72.98,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-08,Customer Service,FR,114.62,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-08,Customer Service,IT,105.79,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-08,Sales,DE,183.21,Low,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-08,Sales,EN,55.28,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-08,Sales,FR,74.64,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-08,Sales,IT,70.26,High,Monday historically carries the strongest contact volume. The month is treated as a peak season in the simulated business calendar.
+2026-06-09,Customer Service,DE,227.39,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-09,Customer Service,EN,72.06,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-09,Customer Service,FR,94.87,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-09,Customer Service,IT,96.56,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-09,Sales,DE,156.01,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-09,Sales,EN,46.41,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-09,Sales,FR,69.72,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-09,Sales,IT,59.93,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-10,Customer Service,DE,207.98,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-10,Customer Service,EN,68.41,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-10,Customer Service,FR,88.19,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-10,Customer Service,IT,76.84,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-10,Sales,DE,145.09,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-10,Sales,EN,40.72,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-10,Sales,FR,59.79,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-10,Sales,IT,60.56,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-11,Customer Service,DE,203.74,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-11,Customer Service,EN,59.16,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-11,Customer Service,FR,87.7,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-11,Customer Service,IT,82.0,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-11,Sales,DE,139.43,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-11,Sales,EN,43.78,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-11,Sales,FR,56.6,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-11,Sales,IT,57.66,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-12,Customer Service,DE,213.93,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-12,Customer Service,EN,55.69,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-12,Customer Service,FR,82.82,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-12,Customer Service,IT,75.53,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-12,Sales,DE,132.34,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-12,Sales,EN,40.98,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-12,Sales,FR,51.78,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-12,Sales,IT,51.51,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-13,Customer Service,DE,151.06,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-13,Customer Service,EN,40.5,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-13,Customer Service,FR,50.88,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-13,Customer Service,IT,48.89,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-13,Sales,DE,97.82,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-13,Sales,EN,28.71,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-13,Sales,FR,37.52,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-13,Sales,IT,36.94,High,The month is treated as a peak season in the simulated business calendar.
+2026-06-14,Customer Service,DE,224.31,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-14,Customer Service,EN,55.11,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-14,Customer Service,FR,57.35,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-14,Customer Service,IT,60.45,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-14,Sales,DE,118.8,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-14,Sales,EN,30.93,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-14,Sales,FR,33.02,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.
+2026-06-14,Sales,IT,33.02,High,The month is treated as a peak season in the simulated business calendar. Required FTE exceeds scheduled available capacity.

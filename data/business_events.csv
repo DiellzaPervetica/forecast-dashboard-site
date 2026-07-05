@@ -1,0 +1,76 @@
+event_date,event_type,queue_scope,language_scope,demand_multiplier,aht_multiplier,is_department_closed,description,expected_impact
+2024-01-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-01-04,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2024-01-05,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2024-02-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-02-12,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2024-02-13,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2024-03-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-03-11,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2024-04-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-04-05,service_incident,Customer Service,ALL,1.28,1.11,False,Simulated system/service incident increases contacts and AHT.,high CS workload
+2024-05-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-05-10,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2024-06-03,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-07-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-08-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-08-07,service_incident,Customer Service,ALL,1.28,1.11,False,Simulated system/service incident increases contacts and AHT.,high CS workload
+2024-09-02,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-09-11,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2024-09-11,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2024-09-12,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2024-10-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-10-03,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2024-10-04,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2024-11-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-11-11,sales_offer,Sales,ALL,1.42,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2024-12-02,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2024-12-06,service_incident,Customer Service,ALL,1.28,1.11,False,Simulated system/service incident increases contacts and AHT.,high CS workload
+2024-12-11,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2024-12-14,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2025-01-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-01-01,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2025-02-03,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-02-04,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2025-02-05,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2025-03-03,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-03-11,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2025-04-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-04-01,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2025-04-02,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2025-04-07,service_incident,Customer Service,ALL,1.28,1.11,False,Simulated system/service incident increases contacts and AHT.,high CS workload
+2025-05-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-05-10,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2025-06-02,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-06-02,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2025-06-03,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2025-07-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-08-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-08-07,service_incident,Customer Service,ALL,1.28,1.11,False,Simulated system/service incident increases contacts and AHT.,high CS workload
+2025-09-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-09-10,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2025-10-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-10-08,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2025-10-09,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2025-11-03,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-11-03,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2025-11-04,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2025-11-11,sales_offer,Sales,ALL,1.42,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2025-12-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2025-12-05,service_incident,Customer Service,ALL,1.28,1.11,False,Simulated system/service incident increases contacts and AHT.,high CS workload
+2025-12-10,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2026-01-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2026-02-02,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2026-02-12,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2026-02-13,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2026-03-02,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2026-03-02,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2026-03-03,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike
+2026-03-11,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2026-04-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2026-04-07,service_incident,Customer Service,ALL,1.28,1.11,False,Simulated system/service incident increases contacts and AHT.,high CS workload
+2026-05-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2026-05-11,sales_offer,Sales,ALL,1.25,0.97,False,Outbound offer and inbound response period for Sales.,sales conversion spike
+2026-06-01,billing_cycle,Customer Service,ALL,1.18,1.04,False,Monthly billing notifications increase service contacts.,moderate CS spike
+2026-06-02,public_holiday,ALL,ALL,0.0,1.0,True,Department closed for a simulated public holiday.,zero same-day demand
+2026-06-03,holiday_rebound,Customer Service,ALL,1.35,1.05,False,Post-holiday support backlog and follow-up calls.,customer service spike

@@ -1,0 +1,6 @@
+scenario,call_volume_factor,aht_factor,assumed_absent_agents,total_forecast_calls,avg_required_agents,avg_available_agents,avg_staffing_gap,understaffed_interval_rate
+Base,1.0,1.0,0,68690.73,1.144,1.346,0.202,0.3474
+Calls +10%,1.1,1.0,0,75559.81,1.258,1.346,0.088,0.3701
+AHT +15%,1.0,1.15,0,68690.73,1.315,1.346,0.03,0.3822
+3 agents absent,1.0,1.0,3,68690.73,1.144,1.345,0.202,0.3474
+Campaign stress,1.2,1.1,2,82428.88,1.51,1.345,-0.164,0.4508

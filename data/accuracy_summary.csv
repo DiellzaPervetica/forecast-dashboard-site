@@ -1,0 +1,5 @@
+metric,value,description
+total_actual_calls_2026,60379.0,Actual offered calls in the simulated Jan-Jun 2026 validation window.
+partner_bias,0.1672,Positive means partner over-forecasted; negative means under-forecasted.
+best_interval_model,HistGradientBoosting,Best interval-level model by WAPE.
+high_understaffing_interval_rate,0.3471,Share of 2026 intervals where forecasted demand exceeds available capacity.

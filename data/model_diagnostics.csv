@@ -1,0 +1,5 @@
+diagnostic,value,detail
+best_interval_model,HistGradientBoosting,Lowest WAPE among interval-level models.
+wape_improvement_vs_partner,0.1539,Relative WAPE reduction compared with the simulated partner forecast.
+bias_reduction_vs_partner,0.0295,Positive means the selected model is less biased than the partner baseline.
+partner_business_risk,high,Risk tier based on partner WAPE in the Jan-Jun 2026 validation window.

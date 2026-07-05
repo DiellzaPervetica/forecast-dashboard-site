@@ -1,0 +1,8 @@
+check_name,value,severity,note
+raw_rows,162570,info,Rows before preprocessing.
+duplicate_business_keys,1290,warning,Duplicate interval rows injected to demonstrate deduplication.
+missing_forecast_values,4296,warning,Missing forecast values are imputed from queue/language/time profiles.
+missing_aht_values,2449,warning,Missing AHT values are imputed from queue/language medians.
+extreme_forecast_values,1183,warning,Extreme high forecast values are capped at robust group percentiles.
+extreme_aht_values,1203,warning,Extreme AHT values are capped to protect model stability.
+closed_day_nonzero_forecasts,0,error,Non-working and closed days must have zero forecast after cleaning.

@@ -1,0 +1,18 @@
+feature_family,feature_name,definition,business_value,implementation_status
+calendar,month,Seasonal month indicator,Captures peak/off-peak seasonality.,implemented
+calendar,weekday,Weekday indicator,Models Monday-heavy and Friday-lower call patterns.,implemented
+calendar,week_of_month,First vs second simulated week,Keeps Saturday logic and monthly pattern visible.,implemented
+intraday,interval_start,15-minute interval,"Captures morning peak, lunch dip and late-day decline.",implemented
+events,is_billing_cycle,Billing event flag,Explains Customer Service spikes.,implemented
+events,is_sales_offer,Sales campaign flag,Explains Sales response spikes.,implemented
+events,is_holiday_rebound,Post-holiday rebound flag,Explains backlog after closed days.,implemented
+events,is_service_incident,Incident flag,Explains abnormal CS volume and higher AHT.,implemented
+capacity,available_capacity_ratio,Available agents / required agents,Connects demand forecast to supply risk.,analytics_output
+capacity,fragility_score,Stress gap under +5% demand,Identifies intervals that look covered but can break quickly.,analytics_output
+quality,data_quality_score,Missing/outlier/duplicate impact score,Shows if forecast trust should be reduced.,analytics_output
+forecast,partner_forecast_bias,Partner forecast minus actual or model,Detects systematic partner over/under forecasting.,analytics_output
+forecast,confidence_score,"Composite confidence from uncertainty, events, AHT and staffing",Prioritizes forecasts that need planner review.,analytics_output
+future,lag_same_weekday_calls,Previous same-weekday demand,Useful when full real history is available.,recommended_next
+future,rolling_4_week_avg,Rolling 4-week average,Smooths recent trend and volatility.,recommended_next
+future,rolling_volatility,Rolling standard deviation,Marks unstable queues/languages as lower confidence.,recommended_next
+future,days_to_holiday,Distance to next holiday,Captures pre-holiday and post-holiday demand movement.,recommended_next

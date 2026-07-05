@@ -1,0 +1,673 @@
+date,queue,language,confidence_score,confidence_label,avg_band_ratio,avg_partner_gap_ratio,event_count,aht_pressure_rate,fragility_pressure_rate,main_reason
+2026-01-01,Customer Service,DE,66.5,Medium,0.8623,0.5101,48,0.375,0.1042,Normal forecast uncertainty
+2026-01-01,Customer Service,EN,53.7,Low,2.4455,0.4273,48,0.0208,0.2292,High event/staffing uncertainty
+2026-01-01,Customer Service,FR,55.0,Low,2.0295,0.1527,48,0.1042,0.2292,High event/staffing uncertainty
+2026-01-01,Customer Service,IT,48.8,Low,2.0503,0.2243,48,0.4792,0.25,High event/staffing uncertainty
+2026-01-01,Sales,DE,67.6,Medium,1.6258,0.4136,0,0.0,0.1458,Normal forecast uncertainty
+2026-01-01,Sales,EN,66.2,Medium,3.6276,0.4179,0,0.0,0.0,Normal forecast uncertainty
+2026-01-01,Sales,FR,67.6,Medium,2.9688,0.1472,0,0.0,0.0625,Normal forecast uncertainty
+2026-01-01,Sales,IT,67.7,Medium,3.0501,0.2133,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-02,Customer Service,DE,76.0,Medium,0.9527,0.4307,0,0.0,0.2708,Normal forecast uncertainty
+2026-01-02,Customer Service,EN,61.9,Medium,2.5473,0.4472,0,0.0,0.2292,Normal forecast uncertainty
+2026-01-02,Customer Service,FR,66.0,Medium,2.1624,0.1575,0,0.0,0.1458,Normal forecast uncertainty
+2026-01-02,Customer Service,IT,65.9,Medium,2.3263,0.1657,0,0.0,0.1458,Normal forecast uncertainty
+2026-01-02,Sales,DE,68.9,Medium,1.5103,0.5193,0,0.0,0.125,Normal forecast uncertainty
+2026-01-02,Sales,EN,65.0,Medium,3.7662,0.5534,0,0.0,0.0,Normal forecast uncertainty
+2026-01-02,Sales,FR,66.8,Medium,3.1557,0.2272,0,0.0,0.0625,Normal forecast uncertainty
+2026-01-02,Sales,IT,68.1,Medium,3.1338,0.1687,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-03,Customer Service,DE,74.5,Medium,1.0285,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-03,Customer Service,EN,61.0,Medium,3.3116,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-03,Customer Service,FR,61.0,Medium,3.2984,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-03,Customer Service,IT,61.0,Medium,3.1236,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-03,Sales,DE,62.4,Medium,1.7901,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-03,Sales,EN,61.0,Medium,4.5037,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-03,Sales,FR,61.0,Medium,4.4602,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-03,Sales,IT,61.0,Medium,4.4602,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-04,Customer Service,DE,78.8,High,0.7596,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-01-04,Customer Service,EN,61.0,Medium,2.5666,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-04,Customer Service,FR,61.0,Medium,2.5061,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-04,Customer Service,IT,61.0,Medium,2.4288,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-04,Sales,DE,68.0,Medium,1.4353,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-04,Sales,EN,61.0,Medium,3.8198,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-04,Sales,FR,61.0,Medium,3.6436,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-04,Sales,IT,61.0,Medium,3.6436,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-05,Customer Service,DE,84.4,High,0.632,0.4824,0,0.0,0.0625,Stable historical pattern and low operational pressure
+2026-01-05,Customer Service,EN,61.7,Medium,2.0554,0.4227,0,0.0,0.25,Normal forecast uncertainty
+2026-01-05,Customer Service,FR,70.5,Medium,1.507,0.1813,0,0.0,0.2083,Normal forecast uncertainty
+2026-01-05,Customer Service,IT,69.0,Medium,1.6569,0.1693,0,0.0,0.1667,Normal forecast uncertainty
+2026-01-05,Sales,DE,75.3,Medium,1.2464,0.4086,0,0.0,0.0625,Normal forecast uncertainty
+2026-01-05,Sales,EN,65.6,Medium,2.8559,0.4477,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-05,Sales,FR,66.9,Medium,2.4909,0.1789,0,0.0,0.0833,Normal forecast uncertainty
+2026-01-05,Sales,IT,67.5,Medium,2.5763,0.1943,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-06,Customer Service,DE,84.0,High,0.6257,0.5842,0,0.0,0.0417,Stable historical pattern and low operational pressure
+2026-01-06,Customer Service,EN,61.4,Medium,2.2627,0.4179,0,0.0,0.2708,Normal forecast uncertainty
+2026-01-06,Customer Service,FR,68.1,Medium,1.7584,0.1279,0,0.0,0.1458,Normal forecast uncertainty
+2026-01-06,Customer Service,IT,65.6,Medium,1.9317,0.1168,0,0.0,0.1875,Normal forecast uncertainty
+2026-01-06,Sales,DE,72.5,Medium,1.2614,0.5166,0,0.0,0.1458,Normal forecast uncertainty
+2026-01-06,Sales,EN,64.7,Medium,3.1971,0.502,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-06,Sales,FR,67.7,Medium,2.6999,0.1683,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-06,Sales,IT,66.3,Medium,2.8084,0.2425,0,0.0,0.0833,Normal forecast uncertainty
+2026-01-07,Customer Service,DE,80.1,High,0.8332,0.4378,0,0.0,0.1458,Stable historical pattern and low operational pressure
+2026-01-07,Customer Service,EN,62.1,Medium,2.2976,0.383,0,0.0,0.25,Normal forecast uncertainty
+2026-01-07,Customer Service,FR,60.7,Medium,1.9163,0.2026,0,0.0,0.4167,Normal forecast uncertainty
+2026-01-07,Customer Service,IT,66.2,Medium,2.0015,0.131,0,0.0,0.1458,Normal forecast uncertainty
+2026-01-07,Sales,DE,70.8,Medium,1.446,0.5057,0,0.0,0.0833,Normal forecast uncertainty
+2026-01-07,Sales,EN,66.1,Medium,3.4385,0.4382,0,0.0,0.0,Normal forecast uncertainty
+2026-01-07,Sales,FR,67.7,Medium,2.6742,0.13,0,0.0,0.0625,Normal forecast uncertainty
+2026-01-07,Sales,IT,68.0,Medium,2.8997,0.1784,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-08,Customer Service,DE,77.5,Medium,0.856,0.478,0,0.0,0.25,Normal forecast uncertainty
+2026-01-08,Customer Service,EN,57.4,Low,2.4513,0.4041,0,0.0,0.5,High event/staffing uncertainty
+2026-01-08,Customer Service,FR,64.5,Medium,2.0596,0.2353,0,0.0,0.1875,Normal forecast uncertainty
+2026-01-08,Customer Service,IT,65.7,Medium,2.0639,0.1468,0,0.0,0.1667,Normal forecast uncertainty
+2026-01-08,Sales,DE,70.4,Medium,1.4967,0.5421,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-08,Sales,EN,65.9,Medium,3.65,0.4552,0,0.0,0.0,Normal forecast uncertainty
+2026-01-08,Sales,FR,67.7,Medium,2.9132,0.1712,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-08,Sales,IT,68.1,Medium,3.1197,0.2078,0,0.0,0.0,Normal forecast uncertainty
+2026-01-09,Customer Service,DE,79.6,High,0.8339,0.4939,0,0.0,0.1458,Stable historical pattern and low operational pressure
+2026-01-09,Customer Service,EN,62.4,Medium,2.5651,0.384,0,0.0,0.2292,Normal forecast uncertainty
+2026-01-09,Customer Service,FR,68.9,Medium,2.2333,0.1201,0,0.0,0.0,Normal forecast uncertainty
+2026-01-09,Customer Service,IT,65.3,Medium,2.254,0.1426,0,0.0,0.1875,Normal forecast uncertainty
+2026-01-09,Sales,DE,70.1,Medium,1.5615,0.5036,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-09,Sales,EN,65.2,Medium,3.7044,0.4969,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-09,Sales,FR,68.1,Medium,3.0223,0.129,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-09,Sales,IT,67.7,Medium,3.2353,0.2177,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-10,Customer Service,DE,74.9,Medium,1.1497,0.5401,0,0.0,0.1042,Normal forecast uncertainty
+2026-01-10,Customer Service,EN,64.7,Medium,3.2328,0.4639,0,0.0,0.0625,Normal forecast uncertainty
+2026-01-10,Customer Service,FR,67.4,Medium,2.8904,0.2023,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-10,Customer Service,IT,67.3,Medium,2.8217,0.1356,0,0.0,0.0833,Normal forecast uncertainty
+2026-01-10,Sales,DE,60.8,Medium,1.819,0.6252,0,0.0,0.25,Normal forecast uncertainty
+2026-01-10,Sales,EN,65.4,Medium,4.4962,0.5134,0,0.0,0.0,Normal forecast uncertainty
+2026-01-10,Sales,FR,67.6,Medium,4.045,0.2679,0,0.0,0.0,Normal forecast uncertainty
+2026-01-10,Sales,IT,67.7,Medium,4.1726,0.2564,0,0.0,0.0,Normal forecast uncertainty
+2026-01-11,Customer Service,DE,78.9,High,0.7576,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-01-11,Customer Service,EN,61.0,Medium,2.5663,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-11,Customer Service,FR,61.0,Medium,2.5066,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-11,Customer Service,IT,61.0,Medium,2.4292,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-11,Sales,DE,68.2,Medium,1.4278,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-11,Sales,EN,61.0,Medium,3.8187,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-11,Sales,FR,61.0,Medium,3.6451,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-11,Sales,IT,61.0,Medium,3.6451,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-01-12,Customer Service,DE,84.8,High,0.6291,0.483,0,0.0,0.0417,Stable historical pattern and low operational pressure
+2026-01-12,Customer Service,EN,62.1,Medium,2.0754,0.3819,0,0.0,0.25,Normal forecast uncertainty
+2026-01-12,Customer Service,FR,69.3,Medium,1.6363,0.1683,0,0.0,0.1667,Normal forecast uncertainty
+2026-01-12,Customer Service,IT,67.5,Medium,1.6989,0.1777,0,0.0,0.2083,Normal forecast uncertainty
+2026-01-12,Sales,DE,73.3,Medium,1.2258,0.4106,0,0.0,0.1875,Normal forecast uncertainty
+2026-01-12,Sales,EN,65.3,Medium,2.8228,0.5194,0,0.0,0.0,Normal forecast uncertainty
+2026-01-12,Sales,FR,66.1,Medium,2.4565,0.2208,0,0.0,0.1042,Normal forecast uncertainty
+2026-01-12,Sales,IT,66.1,Medium,2.4746,0.2205,0,0.0,0.1042,Normal forecast uncertainty
+2026-01-13,Customer Service,DE,84.4,High,0.62,0.5086,0,0.0,0.0625,Stable historical pattern and low operational pressure
+2026-01-13,Customer Service,EN,61.7,Medium,2.211,0.4168,0,0.0,0.25,Normal forecast uncertainty
+2026-01-13,Customer Service,FR,62.8,Medium,1.8057,0.1354,0,0.0,0.3958,Normal forecast uncertainty
+2026-01-13,Customer Service,IT,65.0,Medium,1.8542,0.1292,0,0.0,0.2292,Normal forecast uncertainty
+2026-01-13,Sales,DE,72.6,Medium,1.2515,0.4849,0,0.0,0.1667,Normal forecast uncertainty
+2026-01-13,Sales,EN,65.5,Medium,3.164,0.4972,0,0.0,0.0,Normal forecast uncertainty
+2026-01-13,Sales,FR,67.8,Medium,2.6006,0.1559,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-13,Sales,IT,67.3,Medium,2.7976,0.2216,0,0.0,0.0417,Normal forecast uncertainty
+2026-01-14,Customer Service,DE,81.8,High,0.7973,0.4339,0,0.0,0.0833,Stable historical pattern and low operational pressure
+2026-01-14,Customer Service,EN,61.2,Medium,2.3637,0.4341,0,0.0,0.2708,Normal forecast uncertainty
+2026-01-14,Customer Service,FR,64.1,Medium,1.8863,0.1925,0,0.0,0.2292,Normal forecast uncertainty
+2026-01-14,Customer Service,IT,64.4,Medium,1.9682,0.2009,0,0.0,0.2083,Normal forecast uncertainty
+2026-01-14,Sales,DE,72.7,Medium,1.3495,0.51,0,0.0,0.0625,Normal forecast uncertainty
+2026-01-14,Sales,EN,65.7,Medium,3.4967,0.478,0,0.0,0.0,Normal forecast uncertainty
+2026-01-14,Sales,FR,68.4,Medium,2.8027,0.133,0,0.0,0.0208,Normal forecast uncertainty
+2026-01-14,Sales,IT,67.8,Medium,2.8912,0.1633,0,0.0,0.0417,Normal forecast uncertainty
+2026-02-01,Customer Service,DE,78.3,High,0.7964,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-02-01,Customer Service,EN,61.0,Medium,2.5812,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-01,Customer Service,FR,61.0,Medium,2.5196,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-01,Customer Service,IT,61.0,Medium,2.4409,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-01,Sales,DE,67.8,Medium,1.4522,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-01,Sales,EN,61.0,Medium,3.8642,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-01,Sales,FR,61.0,Medium,3.6826,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-01,Sales,IT,61.0,Medium,3.6826,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-02,Customer Service,DE,77.3,Medium,0.4205,0.2433,48,0.3333,0.0625,Normal forecast uncertainty
+2026-02-02,Customer Service,EN,61.0,Medium,1.4504,0.3216,48,0.0833,0.2083,Normal forecast uncertainty
+2026-02-02,Customer Service,FR,63.5,Medium,1.2091,0.3338,48,0.25,0.1458,Normal forecast uncertainty
+2026-02-02,Customer Service,IT,55.2,Low,1.1617,0.4759,48,0.8333,0.125,High event/staffing uncertainty
+2026-02-02,Sales,DE,82.0,High,0.8048,0.4901,0,0.0,0.0417,Stable historical pattern and low operational pressure
+2026-02-02,Sales,EN,64.4,Medium,2.3744,0.2498,0,0.0,0.1875,Normal forecast uncertainty
+2026-02-02,Sales,FR,62.6,Medium,2.1322,0.4051,0,0.0,0.2083,Normal forecast uncertainty
+2026-02-02,Sales,IT,62.2,Medium,2.1021,0.4539,0,0.0,0.2083,Normal forecast uncertainty
+2026-02-03,Customer Service,DE,87.4,High,0.5491,0.3455,0,0.0,0.0417,Stable historical pattern and low operational pressure
+2026-02-03,Customer Service,EN,67.9,Medium,1.6327,0.3719,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-03,Customer Service,FR,70.6,Medium,1.4047,0.5665,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-03,Customer Service,IT,71.8,Medium,1.4155,0.5382,0,0.0,0.0417,Normal forecast uncertainty
+2026-02-03,Sales,DE,80.7,High,0.8524,0.4652,0,0.0,0.0833,Stable historical pattern and low operational pressure
+2026-02-03,Sales,EN,63.9,Medium,2.5941,0.2982,0,0.0,0.1875,Normal forecast uncertainty
+2026-02-03,Sales,FR,62.4,Medium,2.2331,0.4332,0,0.0,0.2083,Normal forecast uncertainty
+2026-02-03,Sales,IT,62.5,Medium,2.2672,0.4987,0,0.0,0.1667,Normal forecast uncertainty
+2026-02-04,Customer Service,DE,86.0,High,0.5935,0.4145,0,0.0,0.0417,Stable historical pattern and low operational pressure
+2026-02-04,Customer Service,EN,67.5,Medium,1.7445,0.2186,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-04,Customer Service,FR,68.1,Medium,1.5049,0.5794,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-04,Customer Service,IT,70.7,Medium,1.5244,0.3757,0,0.0,0.0833,Normal forecast uncertainty
+2026-02-04,Sales,DE,79.1,High,1.0102,0.2715,0,0.0,0.125,Stable historical pattern and low operational pressure
+2026-02-04,Sales,EN,66.7,Medium,2.8708,0.2023,0,0.0,0.0833,Normal forecast uncertainty
+2026-02-04,Sales,FR,64.6,Medium,2.4384,0.3105,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-04,Sales,IT,64.3,Medium,2.3353,0.2636,0,0.0,0.1875,Normal forecast uncertainty
+2026-02-05,Customer Service,DE,84.5,High,0.6086,0.5201,0,0.0,0.0625,Stable historical pattern and low operational pressure
+2026-02-05,Customer Service,EN,62.7,Medium,1.964,0.1862,0,0.0,0.3125,Normal forecast uncertainty
+2026-02-05,Customer Service,FR,69.5,Medium,1.5053,0.4222,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-05,Customer Service,IT,69.7,Medium,1.6214,0.2807,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-05,Sales,DE,76.9,Medium,1.0783,0.2754,0,0.0,0.1875,Normal forecast uncertainty
+2026-02-05,Sales,EN,65.8,Medium,2.9117,0.3041,0,0.0,0.0833,Normal forecast uncertainty
+2026-02-05,Sales,FR,65.6,Medium,2.4845,0.2751,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-05,Sales,IT,65.7,Medium,2.5797,0.3933,0,0.0,0.0417,Normal forecast uncertainty
+2026-02-06,Customer Service,DE,84.4,High,0.6625,0.4719,0,0.0,0.0417,Stable historical pattern and low operational pressure
+2026-02-06,Customer Service,EN,64.0,Medium,1.9422,0.2133,0,0.0,0.2292,Normal forecast uncertainty
+2026-02-06,Customer Service,FR,67.1,Medium,1.7463,0.3056,0,0.0,0.125,Normal forecast uncertainty
+2026-02-06,Customer Service,IT,67.9,Medium,1.629,0.3343,0,0.0,0.1667,Normal forecast uncertainty
+2026-02-06,Sales,DE,73.3,Medium,1.1708,0.3821,0,0.0,0.25,Normal forecast uncertainty
+2026-02-06,Sales,EN,66.4,Medium,2.8457,0.1947,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-06,Sales,FR,62.7,Medium,2.5225,0.275,0,0.0,0.2708,Normal forecast uncertainty
+2026-02-06,Sales,IT,64.8,Medium,2.6035,0.2839,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-07,Customer Service,DE,75.1,Medium,0.9949,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-07,Customer Service,EN,61.0,Medium,3.3414,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-07,Customer Service,FR,61.0,Medium,3.3297,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-07,Customer Service,IT,61.0,Medium,3.1505,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-07,Sales,DE,62.2,Medium,1.8002,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-07,Sales,EN,61.0,Medium,4.5725,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-07,Sales,FR,61.0,Medium,4.5316,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-07,Sales,IT,61.0,Medium,4.5316,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-08,Customer Service,DE,78.7,High,0.767,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-02-08,Customer Service,EN,61.0,Medium,2.5803,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-08,Customer Service,FR,61.0,Medium,2.5196,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-08,Customer Service,IT,61.0,Medium,2.4409,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-08,Sales,DE,67.7,Medium,1.4542,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-08,Sales,EN,61.0,Medium,3.8642,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-08,Sales,FR,61.0,Medium,3.6851,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-08,Sales,IT,61.0,Medium,3.6851,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-02-09,Customer Service,DE,88.1,High,0.4805,0.4729,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-02-09,Customer Service,EN,70.4,Medium,1.5117,0.3986,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-09,Customer Service,FR,70.3,Medium,1.3069,0.764,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-09,Customer Service,IT,68.7,Medium,1.3761,0.7837,0,0.0,0.125,Normal forecast uncertainty
+2026-02-09,Sales,DE,78.8,High,0.8094,0.5851,0,0.0,0.1667,Stable historical pattern and low operational pressure
+2026-02-09,Sales,EN,64.7,Medium,2.3987,0.3811,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-09,Sales,FR,61.0,Medium,2.0537,0.5827,0,0.0,0.2083,Normal forecast uncertainty
+2026-02-09,Sales,IT,60.7,Medium,2.0778,0.5316,0,0.0,0.25,Normal forecast uncertainty
+2026-02-10,Customer Service,DE,86.7,High,0.5139,0.5591,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-02-10,Customer Service,EN,67.3,Medium,1.7525,0.2239,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-10,Customer Service,FR,72.6,Medium,1.3729,0.4814,0,0.0,0.0625,Normal forecast uncertainty
+2026-02-10,Customer Service,IT,70.5,Medium,1.4222,0.46,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-10,Sales,DE,80.6,High,0.9043,0.4228,0,0.0,0.0625,Stable historical pattern and low operational pressure
+2026-02-10,Sales,EN,64.8,Medium,2.4223,0.2482,0,0.0,0.1667,Normal forecast uncertainty
+2026-02-10,Sales,FR,61.2,Medium,2.2423,0.2728,0,0.0,0.3542,Normal forecast uncertainty
+2026-02-10,Sales,IT,61.7,Medium,2.275,0.2603,0,0.0,0.3333,Normal forecast uncertainty
+2026-02-11,Customer Service,DE,85.3,High,0.583,0.5534,0,0.0,0.0208,Stable historical pattern and low operational pressure
+2026-02-11,Customer Service,EN,65.4,Medium,1.8199,0.2325,0,0.0,0.1875,Normal forecast uncertainty
+2026-02-11,Customer Service,FR,69.2,Medium,1.525,0.457,0,0.0,0.125,Normal forecast uncertainty
+2026-02-11,Customer Service,IT,64.4,Medium,1.52,0.5875,0,0.0,0.3333,Normal forecast uncertainty
+2026-02-11,Sales,DE,79.1,High,0.9801,0.3715,0,0.0,0.1042,Stable historical pattern and low operational pressure
+2026-02-11,Sales,EN,65.3,Medium,2.6201,0.1873,0,0.0,0.1667,Normal forecast uncertainty
+2026-02-11,Sales,FR,65.6,Medium,2.3846,0.241,0,0.0,0.125,Normal forecast uncertainty
+2026-02-11,Sales,IT,65.0,Medium,2.3567,0.2627,0,0.0,0.1458,Normal forecast uncertainty
+2026-02-12,Customer Service,DE,70.9,Medium,0.7532,1.0,48,0.0,0.0,Normal forecast uncertainty
+2026-02-12,Customer Service,EN,53.0,Low,2.4077,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-02-12,Customer Service,FR,53.0,Low,2.3561,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-02-12,Customer Service,IT,53.0,Low,2.2931,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-02-12,Sales,DE,60.7,Medium,1.3908,1.0,48,0.0,0.0,Normal forecast uncertainty
+2026-02-12,Sales,EN,53.0,Low,3.7244,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-02-12,Sales,FR,53.0,Low,3.5509,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-02-12,Sales,IT,53.0,Low,3.5509,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-02-13,Customer Service,DE,66.1,Medium,0.6239,0.1593,48,0.9792,0.0417,Normal forecast uncertainty
+2026-02-13,Customer Service,EN,49.5,Low,2.1574,0.2056,48,0.5208,0.1875,High event/staffing uncertainty
+2026-02-13,Customer Service,FR,46.0,Low,1.7735,0.1122,48,1.0,0.1458,High event/staffing uncertainty
+2026-02-13,Customer Service,IT,43.0,Low,1.8518,0.2576,48,0.9792,0.1875,High event/staffing uncertainty
+2026-02-13,Sales,DE,76.5,Medium,1.1933,0.2394,0,0.0,0.125,Normal forecast uncertainty
+2026-02-13,Sales,EN,67.4,Medium,2.9228,0.2057,0,0.0,0.0417,Normal forecast uncertainty
+2026-02-13,Sales,FR,66.4,Medium,2.6356,0.3184,0,0.0,0.0417,Normal forecast uncertainty
+2026-02-13,Sales,IT,65.5,Medium,2.7053,0.2453,0,0.0,0.125,Normal forecast uncertainty
+2026-02-14,Customer Service,DE,82.6,High,0.8495,0.2948,0,0.0,0.0625,Stable historical pattern and low operational pressure
+2026-02-14,Customer Service,EN,63.9,Medium,2.5974,0.3446,0,0.0,0.1667,Normal forecast uncertainty
+2026-02-14,Customer Service,FR,63.1,Medium,2.3422,0.4343,0,0.0,0.1667,Normal forecast uncertainty
+2026-02-14,Customer Service,IT,62.8,Medium,2.2591,0.3824,0,0.0,0.2083,Normal forecast uncertainty
+2026-02-14,Sales,DE,71.7,Medium,1.4972,0.1527,0,0.0,0.1667,Normal forecast uncertainty
+2026-02-14,Sales,EN,67.2,Medium,3.643,0.2238,0,0.0,0.0417,Normal forecast uncertainty
+2026-02-14,Sales,FR,65.9,Medium,3.3528,0.2524,0,0.0,0.1042,Normal forecast uncertainty
+2026-02-14,Sales,IT,67.9,Medium,3.2593,0.1966,0,0.0,0.0208,Normal forecast uncertainty
+2026-03-01,Customer Service,DE,78.3,High,0.7963,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-03-01,Customer Service,EN,61.0,Medium,2.58,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-01,Customer Service,FR,61.0,Medium,2.5175,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-01,Customer Service,IT,61.0,Medium,2.439,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-01,Sales,DE,67.8,Medium,1.4523,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-01,Sales,EN,61.0,Medium,3.8642,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-01,Sales,FR,61.0,Medium,3.6794,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-01,Sales,IT,61.0,Medium,3.6794,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-02,Customer Service,DE,63.4,Medium,0.6903,1.0,96,0.0417,0.0,Normal forecast uncertainty
+2026-03-02,Customer Service,EN,44.7,Low,2.0937,1.0,96,0.0208,0.0,High event/staffing uncertainty
+2026-03-02,Customer Service,FR,44.1,Low,1.9521,1.0,96,0.0625,0.0,High event/staffing uncertainty
+2026-03-02,Customer Service,IT,32.5,Low,1.8877,1.0,96,0.8958,0.0,High event/staffing uncertainty
+2026-03-02,Sales,DE,64.4,Medium,1.1649,1.0,48,0.0,0.0,Normal forecast uncertainty
+2026-03-02,Sales,EN,53.0,Low,2.9798,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-03-02,Sales,FR,53.0,Low,2.7059,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-03-02,Sales,IT,53.0,Low,2.7059,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-03-03,Customer Service,DE,68.9,Medium,0.4553,0.1561,48,1.0,0.0208,Normal forecast uncertainty
+2026-03-03,Customer Service,EN,48.8,Low,1.5418,0.1763,48,0.8333,0.2917,High event/staffing uncertainty
+2026-03-03,Customer Service,FR,51.7,Low,1.2459,0.2523,48,1.0,0.2292,High event/staffing uncertainty
+2026-03-03,Customer Service,IT,51.9,Low,1.3589,0.2724,48,1.0,0.1042,High event/staffing uncertainty
+2026-03-03,Sales,DE,74.1,Medium,0.7707,0.8778,0,0.0,0.3125,Normal forecast uncertainty
+2026-03-03,Sales,EN,61.1,Medium,2.2582,0.5684,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-03,Sales,FR,60.1,Medium,2.004,0.6877,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-03,Sales,IT,62.3,Medium,2.1148,0.5217,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-04,Customer Service,DE,83.2,High,0.5419,0.8606,0,0.0,0.0208,Stable historical pattern and low operational pressure
+2026-03-04,Customer Service,EN,66.0,Medium,1.6821,0.5406,0,0.0,0.125,Normal forecast uncertainty
+2026-03-04,Customer Service,FR,69.5,Medium,1.3727,0.6621,0,0.0,0.1458,Normal forecast uncertainty
+2026-03-04,Customer Service,IT,69.6,Medium,1.3525,0.7644,0,0.0,0.1042,Normal forecast uncertainty
+2026-03-04,Sales,DE,77.0,Medium,0.8279,0.7903,0,0.0,0.1458,Normal forecast uncertainty
+2026-03-04,Sales,EN,65.5,Medium,2.2826,0.4957,0,0.0,0.0,Normal forecast uncertainty
+2026-03-04,Sales,FR,60.8,Medium,2.1278,0.6008,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-04,Sales,IT,59.0,Medium,2.1834,0.768,0,0.0,0.2292,Normal forecast uncertainty
+2026-03-05,Customer Service,DE,82.8,High,0.6075,0.8303,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-03-05,Customer Service,EN,65.6,Medium,1.7166,0.44,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-05,Customer Service,FR,65.5,Medium,1.5,0.8336,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-05,Customer Service,IT,66.6,Medium,1.5592,0.5658,0,0.0,0.1875,Normal forecast uncertainty
+2026-03-05,Sales,DE,76.5,Medium,0.9008,0.5917,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-05,Sales,EN,64.0,Medium,2.5014,0.3768,0,0.0,0.1458,Normal forecast uncertainty
+2026-03-05,Sales,FR,59.5,Medium,2.3239,0.8343,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-05,Sales,IT,58.4,Medium,2.1721,0.834,0,0.0,0.2292,Normal forecast uncertainty
+2026-03-06,Customer Service,DE,83.3,High,0.5814,0.6951,0,0.0,0.0625,Stable historical pattern and low operational pressure
+2026-03-06,Customer Service,EN,66.3,Medium,1.7951,0.2221,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-06,Customer Service,FR,69.7,Medium,1.4007,0.6257,0,0.0,0.125,Normal forecast uncertainty
+2026-03-06,Customer Service,IT,69.5,Medium,1.5828,0.5742,0,0.0,0.0,Normal forecast uncertainty
+2026-03-06,Sales,DE,71.7,Medium,1.0048,0.8111,0,0.0,0.2708,Normal forecast uncertainty
+2026-03-06,Sales,EN,64.5,Medium,2.5682,0.3604,0,0.0,0.125,Normal forecast uncertainty
+2026-03-06,Sales,FR,60.1,Medium,2.3057,0.6839,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-06,Sales,IT,64.0,Medium,2.4212,0.4954,0,0.0,0.0833,Normal forecast uncertainty
+2026-03-07,Customer Service,DE,75.1,Medium,0.9946,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-07,Customer Service,EN,61.0,Medium,3.3388,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-07,Customer Service,FR,61.0,Medium,3.3257,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-07,Customer Service,IT,61.0,Medium,3.1471,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-07,Sales,DE,62.2,Medium,1.7998,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-07,Sales,EN,61.0,Medium,4.5725,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-07,Sales,FR,61.0,Medium,4.5283,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-07,Sales,IT,61.0,Medium,4.5283,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-08,Customer Service,DE,78.7,High,0.7668,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-03-08,Customer Service,EN,61.0,Medium,2.5791,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-08,Customer Service,FR,61.0,Medium,2.5167,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-08,Customer Service,IT,61.0,Medium,2.4384,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-08,Sales,DE,67.7,Medium,1.4541,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-08,Sales,EN,61.0,Medium,3.8642,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-08,Sales,FR,61.0,Medium,3.6799,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-08,Sales,IT,61.0,Medium,3.6799,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-03-09,Customer Service,DE,86.1,High,0.4389,0.7637,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-03-09,Customer Service,EN,71.5,Medium,1.4148,0.5652,0,0.0,0.0417,Normal forecast uncertainty
+2026-03-09,Customer Service,FR,70.3,Medium,1.1486,0.9683,0,0.0,0.1458,Normal forecast uncertainty
+2026-03-09,Customer Service,IT,71.8,Medium,1.2648,0.7132,0,0.0,0.0833,Normal forecast uncertainty
+2026-03-09,Sales,DE,77.3,Medium,0.7343,0.6766,0,0.0,0.2708,Normal forecast uncertainty
+2026-03-09,Sales,EN,62.0,Medium,2.1286,0.5581,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-09,Sales,FR,58.9,Medium,1.9937,0.7296,0,0.0,0.25,Normal forecast uncertainty
+2026-03-09,Sales,IT,57.5,Low,1.9545,0.8455,0,0.0,0.2708,High event/staffing uncertainty
+2026-03-10,Customer Service,DE,87.7,High,0.4782,0.5133,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-03-10,Customer Service,EN,66.3,Medium,1.6059,0.5985,0,0.0,0.1458,Normal forecast uncertainty
+2026-03-10,Customer Service,FR,70.5,Medium,1.2866,0.8602,0,0.0,0.0625,Normal forecast uncertainty
+2026-03-10,Customer Service,IT,69.0,Medium,1.3908,0.7191,0,0.0,0.125,Normal forecast uncertainty
+2026-03-10,Sales,DE,75.7,Medium,0.7926,0.7117,0,0.0,0.2917,Normal forecast uncertainty
+2026-03-10,Sales,EN,61.8,Medium,2.1771,0.4892,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-10,Sales,FR,57.7,Low,1.9766,0.9049,0,0.0,0.2292,High event/staffing uncertainty
+2026-03-10,Sales,IT,54.8,Low,2.0972,0.7749,0,0.0,0.4583,High event/staffing uncertainty
+2026-03-11,Customer Service,DE,84.0,High,0.5363,0.8203,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-03-11,Customer Service,EN,66.2,Medium,1.7172,0.4969,0,0.0,0.1042,Normal forecast uncertainty
+2026-03-11,Customer Service,FR,70.0,Medium,1.3171,0.5732,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-11,Customer Service,IT,68.7,Medium,1.4534,0.5579,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-11,Sales,DE,72.2,Medium,0.7531,0.4,48,0.0,0.2292,Normal forecast uncertainty
+2026-03-11,Sales,EN,56.5,Low,2.3273,0.323,48,0.0,0.1458,High event/staffing uncertainty
+2026-03-11,Sales,FR,51.8,Low,1.9767,0.7628,48,0.0,0.1875,High event/staffing uncertainty
+2026-03-11,Sales,IT,52.7,Low,2.0281,0.5304,48,0.0,0.25,High event/staffing uncertainty
+2026-03-12,Customer Service,DE,83.2,High,0.5358,0.8718,0,0.0,0.0208,Stable historical pattern and low operational pressure
+2026-03-12,Customer Service,EN,64.5,Medium,1.7147,0.5193,0,0.0,0.1875,Normal forecast uncertainty
+2026-03-12,Customer Service,FR,70.5,Medium,1.3662,0.768,0,0.0,0.0417,Normal forecast uncertainty
+2026-03-12,Customer Service,IT,68.3,Medium,1.518,0.7364,0,0.0,0.0417,Normal forecast uncertainty
+2026-03-12,Sales,DE,75.0,Medium,0.8358,0.7077,0,0.0,0.2917,Normal forecast uncertainty
+2026-03-12,Sales,EN,63.0,Medium,2.5791,0.5225,0,0.0,0.125,Normal forecast uncertainty
+2026-03-12,Sales,FR,59.5,Medium,2.2994,0.8338,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-12,Sales,IT,60.5,Medium,2.2736,0.6782,0,0.0,0.1875,Normal forecast uncertainty
+2026-03-13,Customer Service,DE,86.1,High,0.5639,0.5031,0,0.0,0.0208,Stable historical pattern and low operational pressure
+2026-03-13,Customer Service,EN,62.2,Medium,1.9562,0.3294,0,0.0,0.2708,Normal forecast uncertainty
+2026-03-13,Customer Service,FR,70.1,Medium,1.4762,0.5317,0,0.0,0.0833,Normal forecast uncertainty
+2026-03-13,Customer Service,IT,67.0,Medium,1.5382,0.6453,0,0.0,0.1458,Normal forecast uncertainty
+2026-03-13,Sales,DE,74.0,Medium,0.954,0.733,0,0.0,0.2292,Normal forecast uncertainty
+2026-03-13,Sales,EN,64.0,Medium,2.5972,0.3704,0,0.0,0.1458,Normal forecast uncertainty
+2026-03-13,Sales,FR,61.3,Medium,2.3398,0.7575,0,0.0,0.1042,Normal forecast uncertainty
+2026-03-13,Sales,IT,60.9,Medium,2.2985,0.6324,0,0.0,0.1875,Normal forecast uncertainty
+2026-03-14,Customer Service,DE,82.6,High,0.8332,0.3683,0,0.0,0.0417,Stable historical pattern and low operational pressure
+2026-03-14,Customer Service,EN,62.7,Medium,2.4362,0.3486,0,0.0,0.2292,Normal forecast uncertainty
+2026-03-14,Customer Service,FR,62.0,Medium,2.1364,0.5545,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-14,Customer Service,IT,62.2,Medium,2.1193,0.4465,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-14,Sales,DE,72.8,Medium,1.2227,0.4374,0,0.0,0.2083,Normal forecast uncertainty
+2026-03-14,Sales,EN,67.6,Medium,3.2706,0.2661,0,0.0,0.0,Normal forecast uncertainty
+2026-03-14,Sales,FR,62.9,Medium,2.7777,0.4611,0,0.0,0.1667,Normal forecast uncertainty
+2026-03-14,Sales,IT,65.8,Medium,2.9026,0.2974,0,0.0,0.0833,Normal forecast uncertainty
+2026-04-01,Customer Service,DE,68.9,Medium,0.8544,0.4323,48,0.2917,0.0833,Normal forecast uncertainty
+2026-04-01,Customer Service,EN,52.9,Low,2.3086,0.4715,48,0.0,0.2708,High event/staffing uncertainty
+2026-04-01,Customer Service,FR,55.1,Low,1.9311,0.1276,48,0.1458,0.2083,High event/staffing uncertainty
+2026-04-01,Customer Service,IT,44.7,Low,2.0391,0.2307,48,0.875,0.1667,High event/staffing uncertainty
+2026-04-01,Sales,DE,69.2,Medium,1.5375,0.44,0,0.0,0.125,Normal forecast uncertainty
+2026-04-01,Sales,EN,65.8,Medium,3.5949,0.4618,0,0.0,0.0,Normal forecast uncertainty
+2026-04-01,Sales,FR,67.5,Medium,2.9864,0.1903,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-01,Sales,IT,67.6,Medium,3.0513,0.2278,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-02,Customer Service,DE,78.0,Medium,0.8944,0.4811,0,0.0,0.1875,Normal forecast uncertainty
+2026-04-02,Customer Service,EN,61.3,Medium,2.4619,0.4279,0,0.0,0.2708,Normal forecast uncertainty
+2026-04-02,Customer Service,FR,63.7,Medium,2.2291,0.1163,0,0.0,0.2917,Normal forecast uncertainty
+2026-04-02,Customer Service,IT,64.8,Medium,2.079,0.1986,0,0.0,0.1875,Normal forecast uncertainty
+2026-04-02,Sales,DE,68.9,Medium,1.5368,0.5105,0,0.0,0.1042,Normal forecast uncertainty
+2026-04-02,Sales,EN,65.1,Medium,3.72,0.541,0,0.0,0.0,Normal forecast uncertainty
+2026-04-02,Sales,FR,68.5,Medium,3.1373,0.1719,0,0.0,0.0,Normal forecast uncertainty
+2026-04-02,Sales,IT,67.2,Medium,3.2589,0.2229,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-03,Customer Service,DE,75.9,Medium,0.9523,0.524,0,0.0,0.2292,Normal forecast uncertainty
+2026-04-03,Customer Service,EN,61.8,Medium,2.5575,0.4899,0,0.0,0.2083,Normal forecast uncertainty
+2026-04-03,Customer Service,FR,62.3,Medium,2.199,0.1436,0,0.0,0.3542,Normal forecast uncertainty
+2026-04-03,Customer Service,IT,66.3,Medium,2.3072,0.164,0,0.0,0.125,Normal forecast uncertainty
+2026-04-03,Sales,DE,68.5,Medium,1.5792,0.5258,0,0.0,0.0833,Normal forecast uncertainty
+2026-04-03,Sales,EN,65.7,Medium,3.7349,0.4767,0,0.0,0.0,Normal forecast uncertainty
+2026-04-03,Sales,FR,68.0,Medium,3.2137,0.1837,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-03,Sales,IT,67.1,Medium,3.3909,0.2419,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-04,Customer Service,DE,75.1,Medium,0.9935,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-04,Customer Service,EN,61.0,Medium,3.3409,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-04,Customer Service,FR,61.0,Medium,3.3274,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-04,Customer Service,IT,61.0,Medium,3.1486,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-04,Sales,DE,62.2,Medium,1.799,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-04,Sales,EN,61.0,Medium,4.5725,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-04,Sales,FR,61.0,Medium,4.5275,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-04,Sales,IT,61.0,Medium,4.5275,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-05,Customer Service,DE,78.7,High,0.7662,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-04-05,Customer Service,EN,61.0,Medium,2.5801,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-05,Customer Service,FR,61.0,Medium,2.5176,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-05,Customer Service,IT,61.0,Medium,2.4392,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-05,Sales,DE,67.7,Medium,1.4535,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-05,Sales,EN,61.0,Medium,3.8642,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-05,Sales,FR,61.0,Medium,3.6799,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-05,Sales,IT,61.0,Medium,3.6799,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-06,Customer Service,DE,81.9,High,0.8143,0.3575,0,0.0,0.1042,Stable historical pattern and low operational pressure
+2026-04-06,Customer Service,EN,61.4,Medium,2.2215,0.4168,0,0.0,0.2708,Normal forecast uncertainty
+2026-04-06,Customer Service,FR,66.0,Medium,1.8615,0.1318,0,0.0,0.1667,Normal forecast uncertainty
+2026-04-06,Customer Service,IT,64.6,Medium,1.8972,0.2271,0,0.0,0.1875,Normal forecast uncertainty
+2026-04-06,Sales,DE,71.6,Medium,1.3245,0.4279,0,0.0,0.1875,Normal forecast uncertainty
+2026-04-06,Sales,EN,65.6,Medium,3.0293,0.4929,0,0.0,0.0,Normal forecast uncertainty
+2026-04-06,Sales,FR,64.6,Medium,2.5697,0.1869,0,0.0,0.2083,Normal forecast uncertainty
+2026-04-06,Sales,IT,65.7,Medium,2.6905,0.2312,0,0.0,0.125,Normal forecast uncertainty
+2026-04-07,Customer Service,DE,59.2,Medium,0.7836,0.4082,48,1.0,0.1458,Normal forecast uncertainty
+2026-04-07,Customer Service,EN,39.4,Low,2.2927,0.414,48,1.0,0.2708,High event/staffing uncertainty
+2026-04-07,Customer Service,FR,43.4,Low,1.9976,0.1764,48,1.0,0.1667,High event/staffing uncertainty
+2026-04-07,Customer Service,IT,46.7,Low,1.9409,0.1441,48,1.0,0.0,High event/staffing uncertainty
+2026-04-07,Sales,DE,70.3,Medium,1.4151,0.4555,0,0.0,0.1667,Normal forecast uncertainty
+2026-04-07,Sales,EN,65.1,Medium,3.3077,0.5482,0,0.0,0.0,Normal forecast uncertainty
+2026-04-07,Sales,FR,67.8,Medium,2.8788,0.1584,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-07,Sales,IT,67.5,Medium,2.979,0.1986,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-08,Customer Service,DE,79.0,High,0.8766,0.4842,0,0.0,0.1458,Stable historical pattern and low operational pressure
+2026-04-08,Customer Service,EN,60.9,Medium,2.3279,0.4684,0,0.0,0.2708,Normal forecast uncertainty
+2026-04-08,Customer Service,FR,64.2,Medium,1.9484,0.1443,0,0.0,0.25,Normal forecast uncertainty
+2026-04-08,Customer Service,IT,65.3,Medium,2.1081,0.1892,0,0.0,0.1667,Normal forecast uncertainty
+2026-04-08,Sales,DE,71.9,Medium,1.4042,0.544,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-08,Sales,EN,65.5,Medium,3.5825,0.4969,0,0.0,0.0,Normal forecast uncertainty
+2026-04-08,Sales,FR,68.1,Medium,2.9148,0.1688,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-08,Sales,IT,67.1,Medium,3.1069,0.2832,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-09,Customer Service,DE,79.5,High,0.8708,0.4789,0,0.0,0.125,Stable historical pattern and low operational pressure
+2026-04-09,Customer Service,EN,56.6,Low,2.4432,0.4523,0,0.0,0.5208,High event/staffing uncertainty
+2026-04-09,Customer Service,FR,64.8,Medium,2.0947,0.1599,0,0.0,0.2083,Normal forecast uncertainty
+2026-04-09,Customer Service,IT,68.4,Medium,2.175,0.1753,0,0.0,0.0,Normal forecast uncertainty
+2026-04-09,Sales,DE,70.1,Medium,1.5384,0.5091,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-09,Sales,EN,65.3,Medium,3.7359,0.5182,0,0.0,0.0,Normal forecast uncertainty
+2026-04-09,Sales,FR,66.9,Medium,3.23,0.2149,0,0.0,0.0625,Normal forecast uncertainty
+2026-04-09,Sales,IT,67.9,Medium,3.291,0.1918,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-10,Customer Service,DE,79.9,High,0.8669,0.4848,0,0.0,0.1042,Stable historical pattern and low operational pressure
+2026-04-10,Customer Service,EN,60.5,Medium,2.6099,0.5123,0,0.0,0.2708,Normal forecast uncertainty
+2026-04-10,Customer Service,FR,65.1,Medium,2.2373,0.2096,0,0.0,0.1667,Normal forecast uncertainty
+2026-04-10,Customer Service,IT,66.8,Medium,2.3617,0.2302,0,0.0,0.0625,Normal forecast uncertainty
+2026-04-10,Sales,DE,69.3,Medium,1.6634,0.4569,0,0.0,0.0,Normal forecast uncertainty
+2026-04-10,Sales,EN,65.2,Medium,3.8376,0.5345,0,0.0,0.0,Normal forecast uncertainty
+2026-04-10,Sales,FR,68.3,Medium,3.1785,0.1858,0,0.0,0.0,Normal forecast uncertainty
+2026-04-10,Sales,IT,67.4,Medium,3.3552,0.2469,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-11,Customer Service,DE,72.7,Medium,1.2442,0.5325,0,0.0,0.1458,Normal forecast uncertainty
+2026-04-11,Customer Service,EN,65.3,Medium,3.2958,0.5184,0,0.0,0.0,Normal forecast uncertainty
+2026-04-11,Customer Service,FR,67.1,Medium,3.0695,0.1952,0,0.0,0.0625,Normal forecast uncertainty
+2026-04-11,Customer Service,IT,67.2,Medium,2.9977,0.184,0,0.0,0.0625,Normal forecast uncertainty
+2026-04-11,Sales,DE,60.1,Medium,1.8329,0.633,0,0.0,0.2708,Normal forecast uncertainty
+2026-04-11,Sales,EN,64.3,Medium,4.551,0.6353,0,0.0,0.0,Normal forecast uncertainty
+2026-04-11,Sales,FR,67.7,Medium,4.2556,0.2564,0,0.0,0.0,Normal forecast uncertainty
+2026-04-11,Sales,IT,67.6,Medium,4.4037,0.2648,0,0.0,0.0,Normal forecast uncertainty
+2026-04-12,Customer Service,DE,78.8,High,0.7634,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-04-12,Customer Service,EN,61.0,Medium,2.5798,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-12,Customer Service,FR,61.0,Medium,2.5173,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-12,Customer Service,IT,61.0,Medium,2.4389,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-12,Sales,DE,67.9,Medium,1.4419,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-12,Sales,EN,61.0,Medium,3.863,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-12,Sales,FR,61.0,Medium,3.679,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-12,Sales,IT,61.0,Medium,3.679,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-04-13,Customer Service,DE,80.8,High,0.8184,0.3489,0,0.0,0.1667,Stable historical pattern and low operational pressure
+2026-04-13,Customer Service,EN,62.3,Medium,2.1682,0.3955,0,0.0,0.2292,Normal forecast uncertainty
+2026-04-13,Customer Service,FR,66.0,Medium,1.8221,0.21,0,0.0,0.1667,Normal forecast uncertainty
+2026-04-13,Customer Service,IT,66.5,Medium,1.8059,0.1363,0,0.0,0.1875,Normal forecast uncertainty
+2026-04-13,Sales,DE,70.7,Medium,1.3502,0.4783,0,0.0,0.1875,Normal forecast uncertainty
+2026-04-13,Sales,EN,65.4,Medium,3.0258,0.4669,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-13,Sales,FR,67.4,Medium,2.7062,0.2057,0,0.0,0.0417,Normal forecast uncertainty
+2026-04-13,Sales,IT,67.9,Medium,2.8205,0.1928,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-14,Customer Service,DE,81.0,High,0.8146,0.4536,0,0.0,0.1042,Stable historical pattern and low operational pressure
+2026-04-14,Customer Service,EN,61.6,Medium,2.252,0.4354,0,0.0,0.25,Normal forecast uncertainty
+2026-04-14,Customer Service,FR,65.3,Medium,1.9695,0.1944,0,0.0,0.1667,Normal forecast uncertainty
+2026-04-14,Customer Service,IT,64.8,Medium,2.0006,0.2018,0,0.0,0.1875,Normal forecast uncertainty
+2026-04-14,Sales,DE,71.5,Medium,1.3235,0.4778,0,0.0,0.1667,Normal forecast uncertainty
+2026-04-14,Sales,EN,65.9,Medium,3.3082,0.4554,0,0.0,0.0,Normal forecast uncertainty
+2026-04-14,Sales,FR,67.7,Medium,2.8104,0.2089,0,0.0,0.0208,Normal forecast uncertainty
+2026-04-14,Sales,IT,68.1,Medium,2.9946,0.2126,0,0.0,0.0,Normal forecast uncertainty
+2026-05-01,Customer Service,DE,63.0,Medium,0.5599,0.5824,48,0.9792,0.0625,Normal forecast uncertainty
+2026-05-01,Customer Service,EN,49.0,Low,1.7225,0.4056,48,0.5208,0.25,High event/staffing uncertainty
+2026-05-01,Customer Service,FR,46.8,Low,1.6252,0.442,48,0.875,0.1667,High event/staffing uncertainty
+2026-05-01,Customer Service,IT,47.4,Low,1.5073,0.5942,48,1.0,0.0625,High event/staffing uncertainty
+2026-05-01,Sales,DE,74.0,Medium,1.0425,0.6999,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-01,Sales,EN,65.1,Medium,2.5814,0.3377,0,0.0,0.1042,Normal forecast uncertainty
+2026-05-01,Sales,FR,59.6,Medium,2.2578,0.7432,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-01,Sales,IT,60.7,Medium,2.3089,0.6149,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-02,Customer Service,DE,74.8,Medium,1.0122,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-02,Customer Service,EN,61.0,Medium,3.3398,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-02,Customer Service,FR,61.0,Medium,3.3262,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-02,Customer Service,IT,61.0,Medium,3.1476,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-02,Sales,DE,62.2,Medium,1.8003,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-02,Sales,EN,61.0,Medium,4.5725,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-02,Sales,FR,61.0,Medium,4.5275,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-02,Sales,IT,61.0,Medium,4.5275,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-03,Customer Service,DE,78.0,High,0.8103,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-03,Customer Service,EN,61.0,Medium,2.5784,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-03,Customer Service,FR,61.0,Medium,2.516,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-03,Customer Service,IT,61.0,Medium,2.4377,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-03,Sales,DE,67.7,Medium,1.4539,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-03,Sales,EN,61.0,Medium,3.8642,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-03,Sales,FR,61.0,Medium,3.6794,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-03,Sales,IT,61.0,Medium,3.6794,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-04,Customer Service,DE,88.0,High,0.4113,0.6063,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-04,Customer Service,EN,71.3,Medium,1.4414,0.5467,0,0.0,0.0417,Normal forecast uncertainty
+2026-05-04,Customer Service,FR,71.4,Medium,1.2475,0.7956,0,0.0,0.0833,Normal forecast uncertainty
+2026-05-04,Customer Service,IT,70.6,Medium,1.2026,0.9608,0,0.0,0.0833,Normal forecast uncertainty
+2026-05-04,Sales,DE,74.7,Medium,0.7125,1.0887,0,0.0,0.2292,Normal forecast uncertainty
+2026-05-04,Sales,EN,61.1,Medium,2.1253,0.4941,0,0.0,0.25,Normal forecast uncertainty
+2026-05-04,Sales,FR,57.4,Low,1.8804,0.8996,0,0.0,0.25,High event/staffing uncertainty
+2026-05-04,Sales,IT,59.9,Medium,1.9031,0.5825,0,0.0,0.2708,Normal forecast uncertainty
+2026-05-05,Customer Service,DE,86.2,High,0.4736,0.6945,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-05,Customer Service,EN,67.5,Medium,1.5528,0.5969,0,0.0,0.125,Normal forecast uncertainty
+2026-05-05,Customer Service,FR,70.6,Medium,1.2662,0.8439,0,0.0,0.0833,Normal forecast uncertainty
+2026-05-05,Customer Service,IT,65.4,Medium,1.3198,0.9931,0,0.0,0.25,Normal forecast uncertainty
+2026-05-05,Sales,DE,76.5,Medium,0.7706,0.7827,0,0.0,0.2292,Normal forecast uncertainty
+2026-05-05,Sales,EN,61.7,Medium,2.3489,0.5843,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-05,Sales,FR,58.9,Medium,2.0234,0.8162,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-05,Sales,IT,56.7,Low,2.1123,0.9762,0,0.0,0.25,High event/staffing uncertainty
+2026-05-06,Customer Service,DE,81.2,High,0.5651,1.042,0,0.0,0.0208,Stable historical pattern and low operational pressure
+2026-05-06,Customer Service,EN,67.8,Medium,1.5661,0.666,0,0.0,0.0625,Normal forecast uncertainty
+2026-05-06,Customer Service,FR,68.8,Medium,1.3796,0.8074,0,0.0,0.1042,Normal forecast uncertainty
+2026-05-06,Customer Service,IT,68.6,Medium,1.3724,0.6369,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-06,Sales,DE,80.0,High,0.7789,0.793,0,0.0,0.0208,Stable historical pattern and low operational pressure
+2026-05-06,Sales,EN,62.9,Medium,2.3935,0.452,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-06,Sales,FR,54.2,Low,2.124,0.8027,0,0.0,0.4792,High event/staffing uncertainty
+2026-05-06,Sales,IT,58.3,Medium,2.1016,0.7562,0,0.0,0.2708,Normal forecast uncertainty
+2026-05-07,Customer Service,DE,84.8,High,0.5467,0.6733,0,0.0,0.0208,Stable historical pattern and low operational pressure
+2026-05-07,Customer Service,EN,64.7,Medium,1.7573,0.4219,0,0.0,0.1875,Normal forecast uncertainty
+2026-05-07,Customer Service,FR,67.8,Medium,1.4526,0.6599,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-07,Customer Service,IT,65.5,Medium,1.5278,0.6999,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-07,Sales,DE,76.0,Medium,0.8621,0.7201,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-07,Sales,EN,63.9,Medium,2.3924,0.43,0,0.0,0.125,Normal forecast uncertainty
+2026-05-07,Sales,FR,61.0,Medium,2.194,0.7058,0,0.0,0.1458,Normal forecast uncertainty
+2026-05-07,Sales,IT,58.9,Medium,2.2182,0.7779,0,0.0,0.2292,Normal forecast uncertainty
+2026-05-08,Customer Service,DE,85.1,High,0.5472,0.6804,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-08,Customer Service,EN,65.0,Medium,1.755,0.434,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-08,Customer Service,FR,66.8,Medium,1.5661,0.5695,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-08,Customer Service,IT,65.8,Medium,1.5485,0.6317,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-08,Sales,DE,72.1,Medium,0.9684,0.9641,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-08,Sales,EN,64.0,Medium,2.5025,0.4551,0,0.0,0.1042,Normal forecast uncertainty
+2026-05-08,Sales,FR,65.5,Medium,2.3093,0.5033,0,0.0,0.0,Normal forecast uncertainty
+2026-05-08,Sales,IT,63.1,Medium,2.2623,0.7664,0,0.0,0.0,Normal forecast uncertainty
+2026-05-09,Customer Service,DE,82.7,High,0.8113,0.4851,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-09,Customer Service,EN,59.2,Medium,2.4152,0.32,0,0.0,0.4375,Normal forecast uncertainty
+2026-05-09,Customer Service,FR,62.1,Medium,2.1033,0.3757,0,0.0,0.25,Normal forecast uncertainty
+2026-05-09,Customer Service,IT,61.2,Medium,2.1519,0.5585,0,0.0,0.2083,Normal forecast uncertainty
+2026-05-09,Sales,DE,72.7,Medium,1.3045,0.3375,0,0.0,0.1875,Normal forecast uncertainty
+2026-05-09,Sales,EN,66.3,Medium,3.0963,0.2842,0,0.0,0.0625,Normal forecast uncertainty
+2026-05-09,Sales,FR,64.1,Medium,2.7871,0.4881,0,0.0,0.0833,Normal forecast uncertainty
+2026-05-09,Sales,IT,65.1,Medium,2.8176,0.4567,0,0.0,0.0417,Normal forecast uncertainty
+2026-05-10,Customer Service,DE,78.8,High,0.7641,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-10,Customer Service,EN,61.0,Medium,2.5781,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-10,Customer Service,FR,61.0,Medium,2.5158,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-10,Customer Service,IT,61.0,Medium,2.4376,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-10,Sales,DE,67.9,Medium,1.4452,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-10,Sales,EN,61.0,Medium,3.863,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-10,Sales,FR,61.0,Medium,3.679,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-10,Sales,IT,61.0,Medium,3.679,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-05-11,Customer Service,DE,85.7,High,0.4214,0.8417,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-11,Customer Service,EN,67.5,Medium,1.4603,0.8109,0,0.0,0.1042,Normal forecast uncertainty
+2026-05-11,Customer Service,FR,73.2,Medium,1.1395,0.8648,0,0.0,0.0417,Normal forecast uncertainty
+2026-05-11,Customer Service,IT,69.8,Medium,1.1785,0.9646,0,0.0,0.1458,Normal forecast uncertainty
+2026-05-11,Sales,DE,73.8,Medium,0.6488,0.6629,48,0.0,0.1042,Normal forecast uncertainty
+2026-05-11,Sales,EN,52.7,Low,2.049,0.532,48,0.0,0.25,High event/staffing uncertainty
+2026-05-11,Sales,FR,57.0,Low,1.7206,0.827,48,0.0,0.0,High event/staffing uncertainty
+2026-05-11,Sales,IT,52.9,Low,1.8107,0.6698,48,0.0,0.2292,High event/staffing uncertainty
+2026-05-12,Customer Service,DE,86.6,High,0.4218,0.7356,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-12,Customer Service,EN,66.3,Medium,1.5884,0.7539,0,0.0,0.0833,Normal forecast uncertainty
+2026-05-12,Customer Service,FR,72.6,Medium,1.269,0.7494,0,0.0,0.0208,Normal forecast uncertainty
+2026-05-12,Customer Service,IT,69.6,Medium,1.3289,0.6766,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-12,Sales,DE,77.4,Medium,0.7729,0.6378,0,0.0,0.25,Normal forecast uncertainty
+2026-05-12,Sales,EN,59.7,Medium,2.1802,0.6914,0,0.0,0.2292,Normal forecast uncertainty
+2026-05-12,Sales,FR,59.1,Medium,2.0581,0.7141,0,0.0,0.25,Normal forecast uncertainty
+2026-05-12,Sales,IT,60.3,Medium,2.091,0.5731,0,0.0,0.25,Normal forecast uncertainty
+2026-05-13,Customer Service,DE,86.3,High,0.5212,0.6003,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-13,Customer Service,EN,67.8,Medium,1.6584,0.3757,0,0.0,0.125,Normal forecast uncertainty
+2026-05-13,Customer Service,FR,69.8,Medium,1.4633,0.5829,0,0.0,0.0833,Normal forecast uncertainty
+2026-05-13,Customer Service,IT,68.4,Medium,1.401,0.6825,0,0.0,0.1667,Normal forecast uncertainty
+2026-05-13,Sales,DE,75.4,Medium,0.7968,0.8201,0,0.0,0.25,Normal forecast uncertainty
+2026-05-13,Sales,EN,58.2,Medium,2.3635,0.4757,0,0.0,0.4167,Normal forecast uncertainty
+2026-05-13,Sales,FR,54.1,Low,2.1004,0.8031,0,0.0,0.4792,High event/staffing uncertainty
+2026-05-13,Sales,IT,59.8,Medium,2.1017,0.6306,0,0.0,0.25,Normal forecast uncertainty
+2026-05-14,Customer Service,DE,85.0,High,0.5205,0.7399,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-05-14,Customer Service,EN,66.8,Medium,1.7164,0.43,0,0.0,0.1042,Normal forecast uncertainty
+2026-05-14,Customer Service,FR,70.3,Medium,1.3808,0.6778,0,0.0,0.0833,Normal forecast uncertainty
+2026-05-14,Customer Service,IT,65.9,Medium,1.5264,0.7024,0,0.0,0.1875,Normal forecast uncertainty
+2026-05-14,Sales,DE,72.6,Medium,0.8338,0.8559,0,0.0,0.3542,Normal forecast uncertainty
+2026-05-14,Sales,EN,61.8,Medium,2.4302,0.4544,0,0.0,0.2292,Normal forecast uncertainty
+2026-05-14,Sales,FR,57.7,Low,2.1457,0.8696,0,0.0,0.25,High event/staffing uncertainty
+2026-05-14,Sales,IT,61.4,Medium,2.3105,0.7026,0,0.0,0.125,Normal forecast uncertainty
+2026-06-01,Customer Service,DE,63.2,Medium,0.7316,0.3414,48,1.0,0.0,Normal forecast uncertainty
+2026-06-01,Customer Service,EN,41.1,Low,2.0994,0.3476,48,1.0,0.2083,High event/staffing uncertainty
+2026-06-01,Customer Service,FR,48.6,Low,1.5305,0.1672,48,1.0,0.1875,High event/staffing uncertainty
+2026-06-01,Customer Service,IT,40.8,Low,1.7146,0.2054,48,1.0,0.4375,High event/staffing uncertainty
+2026-06-01,Sales,DE,65.9,Medium,1.1374,0.1341,0,0.8333,0.1667,Normal forecast uncertainty
+2026-06-01,Sales,EN,60.9,Medium,2.6584,0.1708,0,0.4583,0.0625,Normal forecast uncertainty
+2026-06-01,Sales,FR,53.9,Low,2.3639,0.1997,0,0.9167,0.0833,High event/staffing uncertainty
+2026-06-01,Sales,IT,51.9,Low,2.4338,0.2289,0,0.9583,0.1458,High event/staffing uncertainty
+2026-06-02,Customer Service,DE,71.2,Medium,0.7173,1.0,48,0.0208,0.0,Normal forecast uncertainty
+2026-06-02,Customer Service,EN,52.4,Low,2.2029,1.0,48,0.0417,0.0,High event/staffing uncertainty
+2026-06-02,Customer Service,FR,52.4,Low,2.1135,1.0,48,0.0417,0.0,High event/staffing uncertainty
+2026-06-02,Customer Service,IT,53.0,Low,2.0696,1.0,48,0.0,0.0,High event/staffing uncertainty
+2026-06-02,Sales,DE,63.8,Medium,1.1482,1.0,48,0.0625,0.0,Normal forecast uncertainty
+2026-06-02,Sales,EN,51.5,Low,3.2292,1.0,48,0.1042,0.0,High event/staffing uncertainty
+2026-06-02,Sales,FR,40.8,Low,2.9468,1.0,48,0.875,0.0,High event/staffing uncertainty
+2026-06-02,Sales,IT,39.6,Low,2.9468,1.0,48,0.9583,0.0,High event/staffing uncertainty
+2026-06-03,Customer Service,DE,57.8,Low,0.6985,1.0,48,1.0,0.0,High event/staffing uncertainty
+2026-06-03,Customer Service,EN,34.5,Low,2.1753,1.0,48,1.0,0.25,High event/staffing uncertainty
+2026-06-03,Customer Service,FR,38.8,Low,2.0695,0.5684,48,1.0,0.2292,High event/staffing uncertainty
+2026-06-03,Customer Service,IT,37.2,Low,2.0315,0.6601,48,1.0,0.2708,High event/staffing uncertainty
+2026-06-03,Sales,DE,62.8,Medium,1.3175,0.123,0,0.8333,0.1875,Normal forecast uncertainty
+2026-06-03,Sales,EN,56.1,Low,2.9985,0.1543,0,0.8125,0.0625,High event/staffing uncertainty
+2026-06-03,Sales,FR,54.9,Low,2.5668,0.1656,0,0.9167,0.0417,High event/staffing uncertainty
+2026-06-03,Sales,IT,50.7,Low,2.5981,0.234,0,0.9583,0.2083,High event/staffing uncertainty
+2026-06-04,Customer Service,DE,78.5,High,0.8756,0.3574,0,0.1458,0.125,Stable historical pattern and low operational pressure
+2026-06-04,Customer Service,EN,55.6,Low,2.3897,0.3722,0,0.4375,0.2708,High event/staffing uncertainty
+2026-06-04,Customer Service,FR,65.0,Medium,1.9488,0.1574,0,0.2292,0.0208,Normal forecast uncertainty
+2026-06-04,Customer Service,IT,64.4,Medium,2.0589,0.1501,0,0.0625,0.1875,Normal forecast uncertainty
+2026-06-04,Sales,DE,64.6,Medium,1.2617,0.1715,0,0.7917,0.1458,Normal forecast uncertainty
+2026-06-04,Sales,EN,55.2,Low,3.2133,0.2346,0,0.8542,0.0417,High event/staffing uncertainty
+2026-06-04,Sales,FR,54.8,Low,2.624,0.2602,0,0.9167,0.0,High event/staffing uncertainty
+2026-06-04,Sales,IT,53.0,Low,2.6628,0.1898,0,0.9583,0.1042,High event/staffing uncertainty
+2026-06-05,Customer Service,DE,76.0,Medium,0.8823,0.5042,0,0.1667,0.1667,Normal forecast uncertainty
+2026-06-05,Customer Service,EN,56.0,Low,2.555,0.3734,0,0.4375,0.25,High event/staffing uncertainty
+2026-06-05,Customer Service,FR,61.3,Medium,2.092,0.16,0,0.25,0.2083,Normal forecast uncertainty
+2026-06-05,Customer Service,IT,66.6,Medium,2.224,0.166,0,0.0,0.1042,Normal forecast uncertainty
+2026-06-05,Sales,DE,65.7,Medium,1.3182,0.1999,0,0.7083,0.0833,Normal forecast uncertainty
+2026-06-05,Sales,EN,55.0,Low,3.4957,0.2399,0,0.9167,0.0,High event/staffing uncertainty
+2026-06-05,Sales,FR,54.6,Low,2.7415,0.1715,0,0.9375,0.0417,High event/staffing uncertainty
+2026-06-05,Sales,IT,52.7,Low,2.7755,0.142,0,0.9583,0.1458,High event/staffing uncertainty
+2026-06-06,Customer Service,DE,75.4,Medium,0.9751,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-06-06,Customer Service,EN,60.4,Medium,3.2673,1.0,0,0.0417,0.0,Normal forecast uncertainty
+2026-06-06,Customer Service,FR,60.1,Medium,3.2532,1.0,0,0.0625,0.0,Normal forecast uncertainty
+2026-06-06,Customer Service,IT,61.0,Medium,3.0851,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-06-06,Sales,DE,61.9,Medium,1.748,1.0,0,0.0833,0.0,Normal forecast uncertainty
+2026-06-06,Sales,EN,48.8,Low,4.4125,1.0,0,0.875,0.0,High event/staffing uncertainty
+2026-06-06,Sales,FR,48.8,Low,4.3673,1.0,0,0.875,0.0,High event/staffing uncertainty
+2026-06-06,Sales,IT,47.6,Low,4.3673,1.0,0,0.9583,0.0,High event/staffing uncertainty
+2026-06-07,Customer Service,DE,79.0,High,0.7483,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-06-07,Customer Service,EN,60.7,Medium,2.546,1.0,0,0.0208,0.0,Normal forecast uncertainty
+2026-06-07,Customer Service,FR,60.4,Medium,2.486,1.0,0,0.0417,0.0,Normal forecast uncertainty
+2026-06-07,Customer Service,IT,61.0,Medium,2.41,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-06-07,Sales,DE,67.5,Medium,1.3953,1.0,0,0.0833,0.0,Normal forecast uncertainty
+2026-06-07,Sales,EN,49.0,Low,3.7592,1.0,0,0.8542,0.0,High event/staffing uncertainty
+2026-06-07,Sales,FR,48.8,Low,3.585,1.0,0,0.875,0.0,High event/staffing uncertainty
+2026-06-07,Sales,IT,47.6,Low,3.585,1.0,0,0.9583,0.0,High event/staffing uncertainty
+2026-06-08,Customer Service,DE,81.9,High,0.7203,0.3137,0,0.2708,0.0,Stable historical pattern and low operational pressure
+2026-06-08,Customer Service,EN,49.3,Low,2.2104,0.3393,0,0.6458,0.4792,High event/staffing uncertainty
+2026-06-08,Customer Service,FR,66.2,Medium,1.5682,0.1799,0,0.375,0.1042,Normal forecast uncertainty
+2026-06-08,Customer Service,IT,67.3,Medium,1.6837,0.1876,0,0.0208,0.2083,Normal forecast uncertainty
+2026-06-08,Sales,DE,66.1,Medium,1.0302,0.1728,0,0.9167,0.1667,Normal forecast uncertainty
+2026-06-08,Sales,EN,58.9,Medium,2.6195,0.1927,0,0.5625,0.0833,Normal forecast uncertainty
+2026-06-08,Sales,FR,52.2,Low,2.2005,0.2548,0,0.9167,0.1458,High event/staffing uncertainty
+2026-06-08,Sales,IT,51.6,Low,2.2776,0.1799,0,0.9583,0.1875,High event/staffing uncertainty
+2026-06-09,Customer Service,DE,77.2,Medium,0.7876,0.3596,0,0.3333,0.125,Normal forecast uncertainty
+2026-06-09,Customer Service,EN,54.8,Low,2.2125,0.4426,0,0.4792,0.25,High event/staffing uncertainty
+2026-06-09,Customer Service,FR,62.5,Medium,1.8487,0.1383,0,0.2917,0.1458,Normal forecast uncertainty
+2026-06-09,Customer Service,IT,64.5,Medium,1.8372,0.2154,0,0.0,0.2292,Normal forecast uncertainty
+2026-06-09,Sales,DE,67.4,Medium,1.2196,0.2188,0,0.6875,0.0833,Normal forecast uncertainty
+2026-06-09,Sales,EN,61.0,Medium,2.9681,0.2525,0,0.2917,0.1458,Normal forecast uncertainty
+2026-06-09,Sales,FR,54.7,Low,2.3206,0.272,0,0.9167,0.0,High event/staffing uncertainty
+2026-06-09,Sales,IT,53.0,Low,2.5631,0.2362,0,0.9583,0.0833,High event/staffing uncertainty
+2026-06-10,Customer Service,DE,82.7,High,0.8591,0.3331,0,0.0417,0.0,Stable historical pattern and low operational pressure
+2026-06-10,Customer Service,EN,55.3,Low,2.2835,0.425,0,0.4583,0.25,High event/staffing uncertainty
+2026-06-10,Customer Service,FR,61.6,Medium,1.9519,0.1695,0,0.25,0.1875,Normal forecast uncertainty
+2026-06-10,Customer Service,IT,65.2,Medium,2.1305,0.1163,0,0.0,0.2083,Normal forecast uncertainty
+2026-06-10,Sales,DE,65.3,Medium,1.2809,0.1391,0,0.7083,0.1667,Normal forecast uncertainty
+2026-06-10,Sales,EN,55.7,Low,3.2193,0.2165,0,0.8542,0.0208,High event/staffing uncertainty
+2026-06-10,Sales,FR,53.9,Low,2.5292,0.1449,0,0.8958,0.125,High event/staffing uncertainty
+2026-06-10,Sales,IT,52.1,Low,2.5128,0.169,0,0.9792,0.1458,High event/staffing uncertainty
+2026-06-11,Customer Service,DE,80.1,High,0.8701,0.4308,0,0.125,0.0208,Stable historical pattern and low operational pressure
+2026-06-11,Customer Service,EN,60.3,Medium,2.4639,0.3624,0,0.4583,0.0,Normal forecast uncertainty
+2026-06-11,Customer Service,FR,62.7,Medium,1.9614,0.1568,0,0.2083,0.1667,Normal forecast uncertainty
+2026-06-11,Customer Service,IT,64.7,Medium,2.061,0.1773,0,0.0,0.2083,Normal forecast uncertainty
+2026-06-11,Sales,DE,64.6,Medium,1.3488,0.1467,0,0.625,0.2083,Normal forecast uncertainty
+2026-06-11,Sales,EN,56.3,Low,3.1085,0.1776,0,0.8125,0.0417,High event/staffing uncertainty
+2026-06-11,Sales,FR,54.9,Low,2.6469,0.2052,0,0.8958,0.0417,High event/staffing uncertainty
+2026-06-11,Sales,IT,53.5,Low,2.5996,0.1707,0,0.9583,0.0833,High event/staffing uncertainty
+2026-06-12,Customer Service,DE,78.9,High,0.8305,0.4828,0,0.1667,0.0625,Stable historical pattern and low operational pressure
+2026-06-12,Customer Service,EN,58.7,Medium,2.5592,0.4672,0,0.1875,0.25,Normal forecast uncertainty
+2026-06-12,Customer Service,FR,63.9,Medium,2.0608,0.1159,0,0.1458,0.1667,Normal forecast uncertainty
+2026-06-12,Customer Service,IT,66.4,Medium,2.1826,0.1118,0,0.0,0.1458,Normal forecast uncertainty
+2026-06-12,Sales,DE,61.9,Medium,1.3969,0.1246,0,0.8542,0.1458,Normal forecast uncertainty
+2026-06-12,Sales,EN,54.2,Low,3.2824,0.2193,0,0.9375,0.0417,High event/staffing uncertainty
+2026-06-12,Sales,FR,54.9,Low,2.7832,0.1345,0,0.9375,0.0417,High event/staffing uncertainty
+2026-06-12,Sales,IT,52.8,Low,2.8603,0.1813,0,0.9792,0.1042,High event/staffing uncertainty
+2026-06-13,Customer Service,DE,72.3,Medium,1.178,0.4711,0,0.1667,0.125,Normal forecast uncertainty
+2026-06-13,Customer Service,EN,62.0,Medium,3.1637,0.4768,0,0.1875,0.0625,Normal forecast uncertainty
+2026-06-13,Customer Service,FR,64.4,Medium,2.7973,0.1581,0,0.0833,0.1667,Normal forecast uncertainty
+2026-06-13,Customer Service,IT,66.6,Medium,2.8582,0.2091,0,0.0,0.0833,Normal forecast uncertainty
+2026-06-13,Sales,DE,54.3,Low,1.7902,0.2055,0,0.7917,0.2292,High event/staffing uncertainty
+2026-06-13,Sales,EN,54.5,Low,4.1246,0.269,0,0.9375,0.0,High event/staffing uncertainty
+2026-06-13,Sales,FR,53.7,Low,3.5394,0.2005,0,0.9583,0.0625,High event/staffing uncertainty
+2026-06-13,Sales,IT,55.3,Low,3.5862,0.1762,0,0.9375,0.0,High event/staffing uncertainty
+2026-06-14,Customer Service,DE,78.9,High,0.7592,1.0,0,0.0,0.0,Stable historical pattern and low operational pressure
+2026-06-14,Customer Service,EN,60.7,Medium,2.5457,1.0,0,0.0208,0.0,Normal forecast uncertainty
+2026-06-14,Customer Service,FR,60.7,Medium,2.4857,1.0,0,0.0208,0.0,Normal forecast uncertainty
+2026-06-14,Customer Service,IT,61.0,Medium,2.4098,1.0,0,0.0,0.0,Normal forecast uncertainty
+2026-06-14,Sales,DE,55.2,Low,1.4336,1.0,0,0.9167,0.0,High event/staffing uncertainty
+2026-06-14,Sales,EN,47.9,Low,3.7581,1.0,0,0.9375,0.0,High event/staffing uncertainty
+2026-06-14,Sales,FR,47.6,Low,3.5841,1.0,0,0.9583,0.0,High event/staffing uncertainty
+2026-06-14,Sales,IT,47.6,Low,3.5841,1.0,0,0.9583,0.0,High event/staffing uncertainty
